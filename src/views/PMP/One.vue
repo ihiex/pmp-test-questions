@@ -6,8 +6,7 @@
         <!-- <div class="question-detail-info">
           共59题，大题得分：
           <span class="getScore">57.0</span>，大题满分：59.0
-        </div> -->
-        
+        </div>-->
       </div>
 
       <div class="questions-content">
@@ -8456,9 +8455,7 @@
 <script>
 export default {
   name: "",
-  methods: {
-   
-  },
+  methods: {},
   data() {
     return {
       title: ""

@@ -29,19 +29,34 @@
             <el-button @click="handleClick(7)">第五章</el-button>
           </el-col>
           <el-col :span="24">
+            <el-button @click="handleClick(16)">第五章综合</el-button>
+          </el-col>
+          <el-col :span="24">
             <el-button @click="handleClick(8)">第六章</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(17)">第六章综合</el-button>
           </el-col>
           <el-col :span="24">
             <el-button @click="handleClick(9)">第七章</el-button>
           </el-col>
+           <el-col :span="24">
+            <el-button @click="handleClick(18)">第七章综合</el-button>
+          </el-col>
           <el-col :span="24">
             <el-button @click="handleClick(10)">第八章</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(19)">第八章综合</el-button>
           </el-col>
           <el-col :span="24">
             <el-button @click="handleClick(11)">第九章</el-button>
           </el-col>
           <el-col :span="24">
             <el-button @click="handleClick(12)">第十章</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(20)">第十章综合</el-button>
           </el-col>
           <el-col :span="24">
             <el-button @click="handleClick(13)">第十一章</el-button>
@@ -71,11 +86,16 @@ import Three_z from "./Three_z";
 import Four from "./Four";
 import Four_z from "./Four_z";
 import Five from "./Five";
+import Five_z from "./Five_z";
 import Sex from "./Sex";
+import Sex_z from "./Sex_z";
 import Seven from "./Seven";
+import Seven_z from "./Seven_z";
 import Eight from "./Eight";
+import Eight_z from "./Eight_z";
 import Nine from "./Nine";
 import Ten from "./Ten";
+import Ten_z from "./Ten_z";
 import Eleven from "./Eleven";
 import Twelve from "./Twelve";
 import Thirteen from "./Thirteen";
@@ -137,16 +157,31 @@ export default {
           this.componentId = Thirteen;
           break;
         case 16:
+          this.componentId = Five_z;
           break;
         case 17:
+          this.componentId = Sex_z;
+          break;
+        case 18: 
+          this.componentId = Seven_z;
+          break;
+          case 19: 
+          this.componentId = Eight_z;
+          break;
+          case 20: 
+          this.componentId = Ten_z;
           break;
       }
+      this.$nextTick(function(){
+        this.handleClick2();
+      })
     },
     handleClick1() {
       document.querySelectorAll(".analysis").forEach(res => {
         res.style.display = "block";
       });
     },
+    //隐藏
     handleClick2() {
       document.querySelectorAll(".analysis").forEach(res => {
         res.style.display = "none";
@@ -159,6 +194,9 @@ export default {
       height: window.innerHeight - 35,
       componentId: "One"
     };
+  },
+  mounted(){
+    this.handleClick2()
   }
 };
 </script>
@@ -187,4 +225,7 @@ export default {
 .el-button {
   margin: 5px;
 }
+/* .question-content, .question-content-type-1, .right-question-content{
+  text-align: left
+} */
 </style>
