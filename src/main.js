@@ -9,7 +9,7 @@ import './plugins/element.js'
 Vue.config.productionTip = false
 Vue.use(ElementUI);
 
-//test mac upload
+//mac update
 
 //全局路由勾子
 router.beforeEach((to, from, next) => {
