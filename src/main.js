@@ -9,6 +9,8 @@ import './plugins/element.js'
 Vue.config.productionTip = false
 Vue.use(ElementUI);
 
+//test mac upload
+
 //全局路由勾子
 router.beforeEach((to, from, next) => {
   console.log("beforeEach"+to+from)
