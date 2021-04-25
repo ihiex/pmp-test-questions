@@ -1,8 +1,9 @@
 <template>
   <div class="app-container">
+    <!-- 第四章综合练习 -->
     <div class="questions">
       <div class="questions-title" id>
-        选择题 第四章综合练习
+        选择题 第四章
        <!--  <div class="question-detail-info">
           共60题，大题得分：
           <span class="getScore">45.0</span>，大题满分：60.0

@@ -1,7 +1,7 @@
 <template>
-  <div class="app-container" :style="{height: height + 'px'}">
+  <div class="app-container" :style="{ height: height + 'px' }">
     <el-container>
-      <el-aside width="200px" style="height: 99vh;">
+      <el-aside width="200px" style="height: 99vh">
         <div style="padding: 10px">
           <el-button @click="handleClick1">显示答案</el-button>
           <el-button type="success" @click="handleClick2">隐藏答案</el-button>
@@ -40,7 +40,7 @@
           <el-col :span="24">
             <el-button @click="handleClick(9)">第七章</el-button>
           </el-col>
-           <el-col :span="24">
+          <el-col :span="24">
             <el-button @click="handleClick(18)">第七章综合</el-button>
           </el-col>
           <el-col :span="24">
@@ -62,10 +62,35 @@
             <el-button @click="handleClick(13)">第十一章</el-button>
           </el-col>
           <el-col :span="24">
+            <el-button @click="handleClick(21)">第十一章综合</el-button>
+          </el-col>
+          <el-col :span="24">
             <el-button @click="handleClick(14)">第十二章</el-button>
           </el-col>
           <el-col :span="24">
             <el-button @click="handleClick(15)">第十三章</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(22)">重点200题</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(23)">A第六版考试最新111题</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(24)">一模考试</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(25)"
+              >第六版重点考试2020年A版</el-button
+            >
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(26)">最重点200题第二套</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(27)"
+              >第六版重点2020年C套120题</el-button
+            >
           </el-col>
         </el-row>
       </el-aside>
@@ -97,8 +122,15 @@ import Nine from "./Nine";
 import Ten from "./Ten";
 import Ten_z from "./Ten_z";
 import Eleven from "./Eleven";
+import Eleven_z from "./Eleven_z";
 import Twelve from "./Twelve";
 import Thirteen from "./Thirteen";
+import yimo from "./yimo";
+import zhongdian from "./zhongdian";
+import new1 from "./new1";
+import A2020A from './A2020A';
+import A2020C from './A2020C';
+import Azuizhongdian from './Azuizhongdian';
 
 export default {
   components: {
@@ -162,42 +194,63 @@ export default {
         case 17:
           this.componentId = Sex_z;
           break;
-        case 18: 
+        case 18:
           this.componentId = Seven_z;
           break;
-          case 19: 
+        case 19:
           this.componentId = Eight_z;
           break;
-          case 20: 
+        case 20:
           this.componentId = Ten_z;
           break;
+        case 21:
+          this.componentId = Eleven_z;
+          break;
+        case 22:
+          this.componentId = zhongdian;
+          break;
+        case 23:
+          this.componentId = new1;
+          break;
+        case 24:
+          this.componentId = yimo;
+          break;
+        case 25:
+          this.componentId = A2020A;
+          break;
+        case 26:
+          this.componentId = A2020C;
+          break;
+        case 27:
+          this.componentId = Azuizhongdian;
+          break;
       }
-      this.$nextTick(function(){
+      this.$nextTick(function () {
         this.handleClick2();
-      })
+      });
     },
     handleClick1() {
-      document.querySelectorAll(".analysis").forEach(res => {
+      document.querySelectorAll(".analysis").forEach((res) => {
         res.style.display = "block";
       });
     },
     //隐藏
     handleClick2() {
-      document.querySelectorAll(".analysis").forEach(res => {
+      document.querySelectorAll(".analysis").forEach((res) => {
         res.style.display = "none";
       });
-    }
+    },
   },
   data() {
     return {
       title: "",
       height: window.innerHeight - 35,
-      componentId: "One"
+      componentId: "One",
     };
   },
-  mounted(){
-    this.handleClick2()
-  }
+  mounted() {
+    this.handleClick2();
+  },
 };
 </script>
 

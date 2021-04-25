@@ -1,13 +1,14 @@
 <template>
   <div class="app-container">
-    <!-- 第六版PMBOK第二章考试 -->
+        <!-- 第九章综合测试（拔高题非必考） --> 
+
     <div class="questions">
       <div class="questions-title" id>
-        单选题 第二章
-        <!-- <div class="question-detail-info">
-          共60题，大题得分：
-          <span class="getScore">41.0</span>，大题满分：60.0
-        </div> -->
+        单先题 九章综合
+        <div class="question-detail-info">
+          共59题，大题得分：
+          <span class="getScore">43.0</span>，大题满分：59.0
+        </div>
       </div>
 
       <div
@@ -15,34 +16,33 @@
       >
         <div
           class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be00a"
-          data-id="5f89598e57aad21d6e0be00a"
+          id="5545c349f3805c7730c376df"
+          data-id="5545c349f3805c7730c376df"
           data-commit="true"
-          data-disorder="1"
         >
           <div class="exam-question">
             <span class="question-index ellipsis">1.</span>
-            以下所有都是组织过程资产的例子，除了（） .
+            在开展项目管理的过程中，项目经理应该?
           </div>
 
           <div class="answers">
             <div class="select single-select a.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00a1"
-                data-keyid="5f89598e57aad21d6e0be00a1"
+                class="radioOrCheck hidden 5545c349f3805c7730c376df1"
+                data-keyid="5545c349f3805c7730c376df1"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00a1"
+                id="5545c349f3805c7730c376df1"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00a_"
+                name="keyChk_questions_5545c349f3805c7730c376df_"
                 data-name="key1"
               />
-              <label for="5f89598e57aad21d6e0be00a1">
+              <label for="5545c349f3805c7730c376df1">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">A.</span> 标准化的工作指南
+                  <span class="words-option">A.</span>尽量远离组织中的政治问题，以免政治问题干扰项目
                 </span>
               </label>
             </div>
@@ -50,20 +50,20 @@
             <div class="select single-select b.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00a2"
-                data-keyid="5f89598e57aad21d6e0be00a2"
+                class="radioOrCheck hidden 5545c349f3805c7730c376df2"
+                data-keyid="5545c349f3805c7730c376df2"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00a2"
+                id="5545c349f3805c7730c376df2"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00a_"
+                name="keyChk_questions_5545c349f3805c7730c376df_"
                 data-name="key2"
               />
-              <label for="5f89598e57aad21d6e0be00a2">
+              <label for="5545c349f3805c7730c376df2">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">B.</span> 过程测量数据库
+                  <span class="words-option">B.</span>尽量回避跨国团队中的文化差异，以免文化差异干扰沟通
                 </span>
               </label>
             </div>
@@ -71,20 +71,20 @@
             <div class="select single-select c.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00a3"
-                data-keyid="5f89598e57aad21d6e0be00a3"
+                class="radioOrCheck hidden 5545c349f3805c7730c376df3"
+                data-keyid="5545c349f3805c7730c376df3"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00a3"
+                id="5545c349f3805c7730c376df3"
                 checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00a_"
+                name="keyChk_questions_5545c349f3805c7730c376df_"
                 data-name="key3"
               />
-              <label for="5f89598e57aad21d6e0be00a3">
+              <label for="5545c349f3805c7730c376df3">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">C.</span> 工作授权系统
+                  <span class="words-option">C.</span>尽量理解并利用政治和文化氛围，创建共赢的气氛
                 </span>
               </label>
             </div>
@@ -92,20 +92,20 @@
             <div class="select single-select d.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00a4"
-                data-keyid="5f89598e57aad21d6e0be00a4"
+                class="radioOrCheck hidden 5545c349f3805c7730c376df4"
+                data-keyid="5545c349f3805c7730c376df4"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00a4"
+                id="5545c349f3805c7730c376df4"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00a_"
+                name="keyChk_questions_5545c349f3805c7730c376df_"
                 data-name="key4"
               />
-              <label for="5f89598e57aad21d6e0be00a4">
+              <label for="5545c349f3805c7730c376df4">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">D.</span> 配置管理知识库
+                  <span class="words-option">D.</span>要求团队成员为项目利益而牺牲个人利益
                 </span>
               </label>
             </div>
@@ -133,13 +133,14 @@
 
             <div class="analysis-row">
               <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
             </div>
             <div class="analysis-row">
               <div class="analysis-title">解释说明：</div>
               <div
                 class="analysis-content question-analysis textalign-justify display-block"
-              >工作授权系统属于事业环境因素。A标准化的工作指南属于组织过程资产。B过程测量数据库属于组织过程资产。D配置管理知识库属于组织过程资产。考点与页码：组织过程资产与事业环境因素。《指南》第38~41页，《解读》第32~35页。</div>
+              >应该理解并利用政治和文化氛围，来促进项目成功。</div>
             </div>
           </div>
 
@@ -158,34 +159,33 @@
 
         <div
           class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be00c"
-          data-id="5f89598e57aad21d6e0be00c"
+          id="5545c349f3805c7730c376de"
+          data-id="5545c349f3805c7730c376de"
           data-commit="true"
-          data-disorder="1"
         >
           <div class="exam-question">
             <span class="question-index ellipsis">2.</span>
-            公司的PMO 是核心战略部门和职能部门，所有项目经理都要向其汇报。这种情心会在哪种组织结构形式中出现？（）
+            某项目成员总是迟到早退，已经影响到项目，项目经理决定对他进行惩戒，对于这种情形，最佳的处理方式是？
           </div>
 
           <div class="answers">
             <div class="select single-select a.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00c1"
-                data-keyid="5f89598e57aad21d6e0be00c1"
+                class="radioOrCheck hidden 5545c349f3805c7730c376de1"
+                data-keyid="5545c349f3805c7730c376de1"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00c1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00c_"
+                id="5545c349f3805c7730c376de1"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376de_"
                 data-name="key1"
               />
-              <label for="5f89598e57aad21d6e0be00c1">
+              <label for="5545c349f3805c7730c376de1">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">A.</span> 项目型
+                  <span class="words-option">A.</span>与该项目成员一对一会面
                 </span>
               </label>
             </div>
@@ -193,20 +193,20 @@
             <div class="select single-select b.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00c2"
-                data-keyid="5f89598e57aad21d6e0be00c2"
+                class="radioOrCheck hidden 5545c349f3805c7730c376de2"
+                data-keyid="5545c349f3805c7730c376de2"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00c2"
+                id="5545c349f3805c7730c376de2"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00c_"
+                name="keyChk_questions_5545c349f3805c7730c376de_"
                 data-name="key2"
               />
-              <label for="5f89598e57aad21d6e0be00c2">
+              <label for="5545c349f3805c7730c376de2">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">B.</span> 强矩阵型
+                  <span class="words-option">B.</span>在下次的团队会议上
                 </span>
               </label>
             </div>
@@ -214,20 +214,20 @@
             <div class="select single-select c.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00c3"
-                data-keyid="5f89598e57aad21d6e0be00c3"
+                class="radioOrCheck hidden 5545c349f3805c7730c376de3"
+                data-keyid="5545c349f3805c7730c376de3"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00c3"
+                id="5545c349f3805c7730c376de3"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00c_"
+                name="keyChk_questions_5545c349f3805c7730c376de_"
                 data-name="key3"
               />
-              <label for="5f89598e57aad21d6e0be00c3">
+              <label for="5545c349f3805c7730c376de3">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">C.</span> 混合型
+                  <span class="words-option">C.</span>与该成员及其经理私下会面
                 </span>
               </label>
             </div>
@@ -235,20 +235,20 @@
             <div class="select single-select d.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00c4"
-                data-keyid="5f89598e57aad21d6e0be00c4"
+                class="radioOrCheck hidden 5545c349f3805c7730c376de4"
+                data-keyid="5545c349f3805c7730c376de4"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00c4"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00c_"
+                id="5545c349f3805c7730c376de4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376de_"
                 data-name="key4"
               />
-              <label for="5f89598e57aad21d6e0be00c4">
+              <label for="5545c349f3805c7730c376de4">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">D.</span> PMO型
+                  <span class="words-option">D.</span>通过电子邮件
                 </span>
               </label>
             </div>
@@ -271,18 +271,19 @@
 
             <div class="analysis-row">
               <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
+              <div class="analysis-content question-com-answer right">A</div>
             </div>
 
             <div class="analysis-row">
               <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
             </div>
             <div class="analysis-row">
               <div class="analysis-title">解释说明：</div>
               <div
                 class="analysis-content question-analysis textalign-justify display-block"
-              >PMO型组织结构中，PMO作用巨大，是最核心的职能部门。A有可能是项目型，但是D更有针对性。B有可能是强矩阵型，但是D更有针对性。C从题干中看不出是混合型。考点与页码：组织结构，PMO型组织。《指南》第47页，《解读》第28页。</div>
+              >最好的方式是私下的直接的沟通。</div>
             </div>
           </div>
 
@@ -300,35 +301,34 @@
         </div>
 
         <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be00b"
-          data-id="5f89598e57aad21d6e0be00b"
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376dd"
+          data-id="5545c349f3805c7730c376dd"
           data-commit="true"
-          data-disorder="1"
         >
           <div class="exam-question">
             <span class="question-index ellipsis">3.</span>
-            PMO 否决了你的项目提出的某个重大变更，并要求你进行方案优化后再向其汇报，这是哪种类型的PMO?（）
+            建立团队成员之间的相互信任，是进行高效团队建设的关键。项目经理应该借助下列哪 项来建立信任?
           </div>
 
           <div class="answers">
             <div class="select single-select a.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00b1"
-                data-keyid="5f89598e57aad21d6e0be00b1"
+                class="radioOrCheck hidden 5545c349f3805c7730c376dd1"
+                data-keyid="5545c349f3805c7730c376dd1"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00b1"
+                id="5545c349f3805c7730c376dd1"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00b_"
+                name="keyChk_questions_5545c349f3805c7730c376dd_"
                 data-name="key1"
               />
-              <label for="5f89598e57aad21d6e0be00b1">
+              <label for="5545c349f3805c7730c376dd1">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">A.</span> 支持型
+                  <span class="words-option">A.</span>强调自己作为项目经理的正式权力
                 </span>
               </label>
             </div>
@@ -336,20 +336,20 @@
             <div class="select single-select b.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00b2"
-                data-keyid="5f89598e57aad21d6e0be00b2"
+                class="radioOrCheck hidden 5545c349f3805c7730c376dd2"
+                data-keyid="5545c349f3805c7730c376dd2"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00b2"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00b_"
+                id="5545c349f3805c7730c376dd2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376dd_"
                 data-name="key2"
               />
-              <label for="5f89598e57aad21d6e0be00b2">
+              <label for="5545c349f3805c7730c376dd2">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">B.</span> 控制型
+                  <span class="words-option">B.</span>为避免出错而隐瞒信息
                 </span>
               </label>
             </div>
@@ -357,20 +357,20 @@
             <div class="select single-select c.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00b3"
-                data-keyid="5f89598e57aad21d6e0be00b3"
+                class="radioOrCheck hidden 5545c349f3805c7730c376dd3"
+                data-keyid="5545c349f3805c7730c376dd3"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00b3"
+                id="5545c349f3805c7730c376dd3"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00b_"
+                name="keyChk_questions_5545c349f3805c7730c376dd_"
                 data-name="key3"
               />
-              <label for="5f89598e57aad21d6e0be00b3">
+              <label for="5545c349f3805c7730c376dd3">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">C.</span> 指令型
+                  <span class="words-option">C.</span>尽可能向团队成员提出假设性问题
                 </span>
               </label>
             </div>
@@ -378,20 +378,20 @@
             <div class="select single-select d.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00b4"
-                data-keyid="5f89598e57aad21d6e0be00b4"
+                class="radioOrCheck hidden 5545c349f3805c7730c376dd4"
+                data-keyid="5545c349f3805c7730c376dd4"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00b4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00b_"
+                id="5545c349f3805c7730c376dd4"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376dd_"
                 data-name="key4"
               />
-              <label for="5f89598e57aad21d6e0be00b4">
+              <label for="5545c349f3805c7730c376dd4">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">D.</span> 混合型
+                  <span class="words-option">D.</span>采用开放式沟通来解决问题
                 </span>
               </label>
             </div>
@@ -399,7 +399,7 @@
 
           <div class="analysis">
             <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
             </div>
             <div class="operation-container">
               <span class="item collect">
@@ -409,23 +409,24 @@
 
             <div class="analysis-row">
               <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
             </div>
 
             <div class="analysis-row">
               <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">B</div>
+              <div class="analysis-content question-com-answer right">D</div>
             </div>
 
             <div class="analysis-row">
               <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
             </div>
             <div class="analysis-row">
               <div class="analysis-title">解释说明：</div>
               <div
                 class="analysis-content question-analysis textalign-justify display-block"
-              >指令型PMO可以直接管理和控制项目，对项目的控制程度很高。A支持型PMO没有这么大权力。B控制型PMO对项目有一定掌控权，但是不能直接管理项目。D没有这种类型的PMO。考点与页码：PMO的类型。《指南》第49页，《解读》第31页。</div>
+              >开放式沟通有利于建立信任。</div>
             </div>
           </div>
 
@@ -443,35 +444,34 @@
         </div>
 
         <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be00e"
-          data-id="5f89598e57aad21d6e0be00e"
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376dc"
+          data-id="5545c349f3805c7730c376dc"
           data-commit="true"
-          data-disorder="1"
         >
           <div class="exam-question">
             <span class="question-index ellipsis">4.</span>
-            项目进展非常不顺利，新上任的项目经理非常关注所在组织内部的资源的可用性，并要求查看所在组织与外部供应商的相关资源采购协议，他关注的焦点是什么？（）
+            在当今高科技环境下，为了成功激励一个团队，下面哪个激励理论可以被项目管理者用来保持一个气氛活跃、多产的团队?
           </div>
 
           <div class="answers">
             <div class="select single-select a.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00e1"
-                data-keyid="5f89598e57aad21d6e0be00e1"
+                class="radioOrCheck hidden 5545c349f3805c7730c376dc1"
+                data-keyid="5545c349f3805c7730c376dc1"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00e1"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00e_"
+                id="5545c349f3805c7730c376dc1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376dc_"
                 data-name="key1"
               />
-              <label for="5f89598e57aad21d6e0be00e1">
+              <label for="5545c349f3805c7730c376dc1">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">A.</span> 组织过程资产
+                  <span class="words-option">A.</span>期望理论和X理论。
                 </span>
               </label>
             </div>
@@ -479,20 +479,20 @@
             <div class="select single-select b.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00e2"
-                data-keyid="5f89598e57aad21d6e0be00e2"
+                class="radioOrCheck hidden 5545c349f3805c7730c376dc2"
+                data-keyid="5545c349f3805c7730c376dc2"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00e2"
+                id="5545c349f3805c7730c376dc2"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00e_"
+                name="keyChk_questions_5545c349f3805c7730c376dc_"
                 data-name="key2"
               />
-              <label for="5f89598e57aad21d6e0be00e2">
+              <label for="5545c349f3805c7730c376dc2">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">B.</span> 事业环境因素
+                  <span class="words-option">B.</span>Y理论和马斯洛理论。
                 </span>
               </label>
             </div>
@@ -500,20 +500,20 @@
             <div class="select single-select c.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00e3"
-                data-keyid="5f89598e57aad21d6e0be00e3"
+                class="radioOrCheck hidden 5545c349f3805c7730c376dc3"
+                data-keyid="5545c349f3805c7730c376dc3"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00e3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00e_"
+                id="5545c349f3805c7730c376dc3"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376dc_"
                 data-name="key3"
               />
-              <label for="5f89598e57aad21d6e0be00e3">
+              <label for="5545c349f3805c7730c376dc3">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">C.</span> 流程和程序
+                  <span class="words-option">C.</span>Y理论、期望理论和赫兹伯格的激励理论。
                 </span>
               </label>
             </div>
@@ -521,20 +521,20 @@
             <div class="select single-select d.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00e4"
-                data-keyid="5f89598e57aad21d6e0be00e4"
+                class="radioOrCheck hidden 5545c349f3805c7730c376dc4"
+                data-keyid="5545c349f3805c7730c376dc4"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00e4"
+                id="5545c349f3805c7730c376dc4"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00e_"
+                name="keyChk_questions_5545c349f3805c7730c376dc_"
                 data-name="key4"
               />
-              <label for="5f89598e57aad21d6e0be00e4">
+              <label for="5545c349f3805c7730c376dc4">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">D.</span> 经验教训知识库
+                  <span class="words-option">D.</span>赫兹伯格的卫生理论和期望理论。
                 </span>
               </label>
             </div>
@@ -542,7 +542,7 @@
 
           <div class="analysis">
             <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
             </div>
             <div class="operation-container">
               <span class="item collect">
@@ -552,23 +552,24 @@
 
             <div class="analysis-row">
               <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
             </div>
 
             <div class="analysis-row">
               <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">A</div>
+              <div class="analysis-content question-com-answer right">C</div>
             </div>
 
             <div class="analysis-row">
               <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
             </div>
             <div class="analysis-row">
               <div class="analysis-title">解释说明：</div>
               <div
                 class="analysis-content question-analysis textalign-justify display-block"
-              >资源可用性是事业环境因素的例子。A题干中提到的是事业环境因素，不是组织过程资产。C流程和程序是组织过程资产的一大类别。D经验教训知识库是组织过程资产的组成部分。考点与页码：事业环境因素与组织过程资产。《指南》第38~41页，《解读》第32~35页</div>
+              >Y理论、期望理论和赫兹伯格的激励因素理论都是对追求较高层次需求的人们可以产生激励作用的理论，与高科技环境下项目团队成员的高学历，高素质相对应。</div>
             </div>
           </div>
 
@@ -587,34 +588,33 @@
 
         <div
           class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be00d"
-          data-id="5f89598e57aad21d6e0be00d"
+          id="5545c349f3805c7730c376db"
+          data-id="5545c349f3805c7730c376db"
           data-commit="true"
-          data-disorder="1"
         >
           <div class="exam-question">
             <span class="question-index ellipsis">5.</span>
-            目前公司的PMO 对于你来说就是一个项目资源库，缺少项目文件模板时你才会向它求助。如果模板太烦琐，你可能不会使用。你所在公司的 PMO 可能是（） .
+            在某历时几年的项目的实施阶段，项目经理发现已指派资源之一将因日程冲突而不可得。在查阅人力资源管理计划后，发现了一个可满足项目要求的替代资源。项目经理执行的是哪一过程?
           </div>
 
           <div class="answers">
             <div class="select single-select a.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00d1"
-                data-keyid="5f89598e57aad21d6e0be00d1"
+                class="radioOrCheck hidden 5545c349f3805c7730c376db1"
+                data-keyid="5545c349f3805c7730c376db1"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00d1"
+                id="5545c349f3805c7730c376db1"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00d_"
+                name="keyChk_questions_5545c349f3805c7730c376db_"
                 data-name="key1"
               />
-              <label for="5f89598e57aad21d6e0be00d1">
+              <label for="5545c349f3805c7730c376db1">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">A.</span> 控制型PMO
+                  <span class="words-option">A.</span>组建项目团队
                 </span>
               </label>
             </div>
@@ -622,20 +622,20 @@
             <div class="select single-select b.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00d2"
-                data-keyid="5f89598e57aad21d6e0be00d2"
+                class="radioOrCheck hidden 5545c349f3805c7730c376db2"
+                data-keyid="5545c349f3805c7730c376db2"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00d2"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00d_"
+                id="5545c349f3805c7730c376db2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376db_"
                 data-name="key2"
               />
-              <label for="5f89598e57aad21d6e0be00d2">
+              <label for="5545c349f3805c7730c376db2">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">B.</span> 支持型PMO
+                  <span class="words-option">B.</span>建设项目团队
                 </span>
               </label>
             </div>
@@ -643,20 +643,20 @@
             <div class="select single-select c.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00d3"
-                data-keyid="5f89598e57aad21d6e0be00d3"
+                class="radioOrCheck hidden 5545c349f3805c7730c376db3"
+                data-keyid="5545c349f3805c7730c376db3"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00d3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00d_"
+                id="5545c349f3805c7730c376db3"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376db_"
                 data-name="key3"
               />
-              <label for="5f89598e57aad21d6e0be00d3">
+              <label for="5545c349f3805c7730c376db3">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">C.</span> 指令型PMO
+                  <span class="words-option">C.</span>管理项目团队
                 </span>
               </label>
             </div>
@@ -664,20 +664,20 @@
             <div class="select single-select d.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00d4"
-                data-keyid="5f89598e57aad21d6e0be00d4"
+                class="radioOrCheck hidden 5545c349f3805c7730c376db4"
+                data-keyid="5545c349f3805c7730c376db4"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00d4"
+                id="5545c349f3805c7730c376db4"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00d_"
+                name="keyChk_questions_5545c349f3805c7730c376db_"
                 data-name="key4"
               />
-              <label for="5f89598e57aad21d6e0be00d4">
+              <label for="5545c349f3805c7730c376db4">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">D.</span> 公司型PMO
+                  <span class="words-option">D.</span>制订人力资源计划
                 </span>
               </label>
             </div>
@@ -700,18 +700,19 @@
 
             <div class="analysis-row">
               <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">B</div>
+              <div class="analysis-content question-com-answer right">C</div>
             </div>
 
             <div class="analysis-row">
               <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
             </div>
             <div class="analysis-row">
               <div class="analysis-title">解释说明：</div>
               <div
                 class="analysis-content question-analysis textalign-justify display-block"
-              >支持型PMO对项目的掌握程度很低，项目可以不使用它提供的模板A解释同B。C解释同B。D解释同B。考点与页码：PMO的类型。《指南》第48页，《解读》第31页。</div>
+              >管理项目团队过程在项目过程中跟踪团队成员的表现、提供反馈、解决问题并管理变更，也可以提交变更请求，更新人力资源计划，解决问题。</div>
             </div>
           </div>
 
@@ -730,34 +731,33 @@
 
         <div
           class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be00f"
-          data-id="5f89598e57aad21d6e0be00f"
+          id="5545c349f3805c7730c376da"
+          data-id="5545c349f3805c7730c376da"
           data-commit="true"
-          data-disorder="1"
         >
           <div class="exam-question">
             <span class="question-index ellipsis">6.</span>
-            在以下哪些组织结构中，项目经理有权管理项目预算？（）
+            项目经理接管一个处于成熟阶段的项目。某些项目成员处于寻找其他任务的过程，由于内部团队冲突想要离开项目团队。若要了解冲突的原因，并找到解决方案，应该使用什么方法?
           </div>
 
           <div class="answers">
             <div class="select single-select a.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00f1"
-                data-keyid="5f89598e57aad21d6e0be00f1"
+                class="radioOrCheck hidden 5545c349f3805c7730c376da1"
+                data-keyid="5545c349f3805c7730c376da1"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00f1"
+                id="5545c349f3805c7730c376da1"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00f_"
+                name="keyChk_questions_5545c349f3805c7730c376da_"
                 data-name="key1"
               />
-              <label for="5f89598e57aad21d6e0be00f1">
+              <label for="5545c349f3805c7730c376da1">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">A.</span> 强矩阵型、有机型、PMO型
+                  <span class="words-option">A.</span>缓解
                 </span>
               </label>
             </div>
@@ -765,20 +765,20 @@
             <div class="select single-select b.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00f2"
-                data-keyid="5f89598e57aad21d6e0be00f2"
+                class="radioOrCheck hidden 5545c349f3805c7730c376da2"
+                data-keyid="5545c349f3805c7730c376da2"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00f2"
+                id="5545c349f3805c7730c376da2"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00f_"
+                name="keyChk_questions_5545c349f3805c7730c376da_"
                 data-name="key2"
               />
-              <label for="5f89598e57aad21d6e0be00f2">
+              <label for="5545c349f3805c7730c376da2">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">B.</span> 强矩阵型、项目型、事业部型
+                  <span class="words-option">B.</span>妥协
                 </span>
               </label>
             </div>
@@ -786,20 +786,20 @@
             <div class="select single-select c.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00f3"
-                data-keyid="5f89598e57aad21d6e0be00f3"
+                class="radioOrCheck hidden 5545c349f3805c7730c376da3"
+                data-keyid="5545c349f3805c7730c376da3"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00f3"
+                id="5545c349f3805c7730c376da3"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00f_"
+                name="keyChk_questions_5545c349f3805c7730c376da_"
                 data-name="key3"
               />
-              <label for="5f89598e57aad21d6e0be00f3">
+              <label for="5545c349f3805c7730c376da3">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">C.</span> 平衡矩阵型、项目型、PMO型
+                  <span class="words-option">C.</span>强迫
                 </span>
               </label>
             </div>
@@ -807,20 +807,20 @@
             <div class="select single-select d.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be00f4"
-                data-keyid="5f89598e57aad21d6e0be00f4"
+                class="radioOrCheck hidden 5545c349f3805c7730c376da4"
+                data-keyid="5545c349f3805c7730c376da4"
                 data-type="1"
-                id="5f89598e57aad21d6e0be00f4"
+                id="5545c349f3805c7730c376da4"
                 checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be00f_"
+                name="keyChk_questions_5545c349f3805c7730c376da_"
                 data-name="key4"
               />
-              <label for="5f89598e57aad21d6e0be00f4">
+              <label for="5545c349f3805c7730c376da4">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">D.</span> 强矩阵型、项目型、PMO型
+                  <span class="words-option">D.</span>合作
                 </span>
               </label>
             </div>
@@ -848,13 +848,14 @@
 
             <div class="analysis-row">
               <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
             </div>
             <div class="analysis-row">
               <div class="analysis-title">解释说明：</div>
               <div
                 class="analysis-content question-analysis textalign-justify display-block"
-              >符合《指南》中的描述。A有机型不一定由项目经理管理项目预算。B事业部型由职能经理（事业部经理）管理项目预算。C平衡矩阵型由项目经理和职能经理共同管理项目预算。考点与页码：不同组织结构的特点。《指南》第47页，《解读》第28-30页。</div>
+              >了解冲突的根本原因，寻找解决方案，将冲突作为问题来解决，是采用合作和面对的冲突解决策略。</div>
             </div>
           </div>
 
@@ -872,35 +873,34 @@
         </div>
 
         <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be020"
-          data-id="5f89598e57aad21d6e0be020"
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376e4"
+          data-id="5545c349f3805c7730c376e4"
           data-commit="true"
-          data-disorder="1"
         >
           <div class="exam-question">
             <span class="question-index ellipsis">7.</span>
-            以下哪项是项目管理办公室（PMO) 的重要特性？（）
+            根据经验和研究表明，下列哪种情况会较好地形成高效团队?
           </div>
 
           <div class="answers">
             <div class="select single-select a.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0201"
-                data-keyid="5f89598e57aad21d6e0be0201"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e41"
+                data-keyid="5545c349f3805c7730c376e41"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0201"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be020_"
+                id="5545c349f3805c7730c376e41"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e4_"
                 data-name="key1"
               />
-              <label for="5f89598e57aad21d6e0be0201">
+              <label for="5545c349f3805c7730c376e41">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">A.</span> 用特定的资源去实现具体项目的目标
+                  <span class="words-option">A.</span>项目团队有20名或以上团队成员时
                 </span>
               </label>
             </div>
@@ -908,20 +908,20 @@
             <div class="select single-select b.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0202"
-                data-keyid="5f89598e57aad21d6e0be0202"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e42"
+                data-keyid="5545c349f3805c7730c376e42"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0202"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be020_"
+                id="5545c349f3805c7730c376e42"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376e4_"
                 data-name="key2"
               />
-              <label for="5f89598e57aad21d6e0be0202">
+              <label for="5545c349f3805c7730c376e42">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">B.</span> 编制项目管理的规章制度
+                  <span class="words-option">B.</span>项目团队成员始终为项目全职工作
                 </span>
               </label>
             </div>
@@ -929,20 +929,20 @@
             <div class="select single-select c.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0203"
-                data-keyid="5f89598e57aad21d6e0be0203"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e43"
+                data-keyid="5545c349f3805c7730c376e43"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0203"
+                id="5545c349f3805c7730c376e43"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be020_"
+                name="keyChk_questions_5545c349f3805c7730c376e4_"
                 data-name="key3"
               />
-              <label for="5f89598e57aad21d6e0be0203">
+              <label for="5545c349f3805c7730c376e43">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">C.</span> 对在项目与职能部门兼职的人员进行管理
+                  <span class="words-option">C.</span>项目团队成员在项目执行阶段向职能经理汇报
                 </span>
               </label>
             </div>
@@ -950,20 +950,20 @@
             <div class="select single-select d.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0204"
-                data-keyid="5f89598e57aad21d6e0be0204"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e44"
+                data-keyid="5545c349f3805c7730c376e44"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0204"
+                id="5545c349f3805c7730c376e44"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be020_"
+                name="keyChk_questions_5545c349f3805c7730c376e4_"
                 data-name="key4"
               />
-              <label for="5f89598e57aad21d6e0be0204">
+              <label for="5545c349f3805c7730c376e44">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">D.</span> 随项目的完成而解散
+                  <span class="words-option">D.</span>当兼职项目团队成员仅向项目经理汇报时
                 </span>
               </label>
             </div>
@@ -971,7 +971,7 @@
 
           <div class="analysis">
             <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
             </div>
             <div class="operation-container">
               <span class="item collect">
@@ -981,23 +981,24 @@
 
             <div class="analysis-row">
               <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
             </div>
 
             <div class="analysis-row">
               <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">A</div>
+              <div class="analysis-content question-com-answer right">B</div>
             </div>
 
             <div class="analysis-row">
               <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
+              <div class="analysis-content question-ans-right">B</div>
+              <div class="analysis-content question-ans-right hidden">B</div>
             </div>
             <div class="analysis-row">
               <div class="analysis-title">解释说明：</div>
               <div
                 class="analysis-content question-analysis textalign-justify display-block"
-              >PMO负责制定组织的项目管理规章制度。A 这是项目经理应该关注的。C PMO对所辖各项目共享的人力资源进行管理。D PMO是常设的永久职能部门，不同于临时的项目部。考点与页码：项目管理办公室的职责。《指南》第49页，《解读》第31页。</div>
+              >建设高效的项目团队项目经理的职责，应该创建一个促进团队协作的环境，比如项目团队成员全职为项目工作，可以使得团队成员全职为项目服务贡献技能。</div>
             </div>
           </div>
 
@@ -1016,34 +1017,33 @@
 
         <div
           class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be021"
-          data-id="5f89598e57aad21d6e0be021"
+          id="5545c349f3805c7730c376e5"
+          data-id="5545c349f3805c7730c376e5"
           data-commit="true"
-          data-disorder="1"
         >
           <div class="exam-question">
             <span class="question-index ellipsis">8.</span>
-            某大型集团公司，对每一个产品或服务类别分别设立自主性很大的部门来集中管理。该集团公司采用的是以下哪种组织结构？（）
+            有效团队建设的主要结果是？
           </div>
 
           <div class="answers">
             <div class="select single-select a.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0211"
-                data-keyid="5f89598e57aad21d6e0be0211"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e51"
+                data-keyid="5545c349f3805c7730c376e51"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0211"
+                id="5545c349f3805c7730c376e51"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be021_"
+                name="keyChk_questions_5545c349f3805c7730c376e5_"
                 data-name="key1"
               />
-              <label for="5f89598e57aad21d6e0be0211">
+              <label for="5545c349f3805c7730c376e51">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">A.</span> 多部门型
+                  <span class="words-option">A.</span>项目绩效改善
                 </span>
               </label>
             </div>
@@ -1051,20 +1051,20 @@
             <div class="select single-select b.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0212"
-                data-keyid="5f89598e57aad21d6e0be0212"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e52"
+                data-keyid="5545c349f3805c7730c376e52"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0212"
+                id="5545c349f3805c7730c376e52"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be021_"
+                name="keyChk_questions_5545c349f3805c7730c376e5_"
                 data-name="key2"
               />
-              <label for="5f89598e57aad21d6e0be0212">
+              <label for="5545c349f3805c7730c376e52">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">B.</span> 项目型
+                  <span class="words-option">B.</span>团队运作有效、平稳
                 </span>
               </label>
             </div>
@@ -1072,20 +1072,20 @@
             <div class="select single-select c.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0213"
-                data-keyid="5f89598e57aad21d6e0be0213"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e53"
+                data-keyid="5545c349f3805c7730c376e53"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0213"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be021_"
+                id="5545c349f3805c7730c376e53"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e5_"
                 data-name="key3"
               />
-              <label for="5f89598e57aad21d6e0be0213">
+              <label for="5545c349f3805c7730c376e53">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">C.</span> 职能型
+                  <span class="words-option">C.</span>项目团队成员理解项目经理最终对项目绩效负责
                 </span>
               </label>
             </div>
@@ -1093,6598 +1093,20 @@
             <div class="select single-select d.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0214"
-                data-keyid="5f89598e57aad21d6e0be0214"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e54"
+                data-keyid="5545c349f3805c7730c376e54"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0214"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be021_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0214">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 说不清
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">A</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >多部门型，也就是事业部型，每个产品或服务部门就是一个事业部。B该公司并没有按项目来划分部门，故不是项目型组织。C 题干没有说是按职能来设立部门。D 干扰选项。考点与页码：组织结构，事业部型组织。《指南》第47页，《解读》第28~30页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be022"
-          data-id="5f89598e57aad21d6e0be022"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">9.</span>
-            在以下哪种项目组织中，项目经理能对项目资源进行最有力的控制？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0221"
-                data-keyid="5f89598e57aad21d6e0be0221"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0221"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be022_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0221">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 项目指挥部组织
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0222"
-                data-keyid="5f89598e57aad21d6e0be0222"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0222"
+                id="5545c349f3805c7730c376e54"
                 checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be022_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0222">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 项目型组织
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0223"
-                data-keyid="5f89598e57aad21d6e0be0223"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0223"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be022_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0223">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 平衡式矩阵组织
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0224"
-                data-keyid="5f89598e57aad21d6e0be0224"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0224"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be022_"
+                name="keyChk_questions_5545c349f3805c7730c376e5_"
                 data-name="key4"
               />
-              <label for="5f89598e57aad21d6e0be0224">
+              <label for="5545c349f3805c7730c376e54">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">D.</span> 强矩阵组织
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >项目型组织中，几乎全部项目成员都在项目上全职工作，都只有项目经理一个老板。A 干扰选项。无“项目指挥部组织”这个说法。C 在矩阵式组织中，项目经理控制项目，但不一定控制资源。许多资源由职能控制。D 在矩阵式组织中，项目经理控制项目，但不一定控制资源。许多资源由职能经理控制。考点与页码：组织结构，项目型组织。《指南》第47页，《解读》第28-30页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be023"
-          data-id="5f89598e57aad21d6e0be023"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">10.</span>
-            PMO最基本的职责是（ ) .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0231"
-                data-keyid="5f89598e57aad21d6e0be0231"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0231"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be023_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0231">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 直接管理和控制某些特定项目
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0232"
-                data-keyid="5f89598e57aad21d6e0be0232"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0232"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be023_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0232">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 指令项目管理团队使用特定的模板
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0233"
-                data-keyid="5f89598e57aad21d6e0be0233"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0233"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be023_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0233">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 为项目提供咨询和指导
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0234"
-                data-keyid="5f89598e57aad21d6e0be0234"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0234"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be023_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0234">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 开展特定项目的变更控制
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >无论是支持型、控制型还是指令型PMO，都需要为项目提供咨询和指导，这是PMO最基本的职责。A 这是指令型PMO的职责，不是所有类型PMO的职责，因此不是PMO的基本职责。B这是控制型PMO的职责，不是所有类型PMO的职责。D 解释同A 考点与页码：PMO的职责。《指南》第48页，《解读》第31页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be024"
-          data-id="5f89598e57aad21d6e0be024"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">11.</span>
-            在以下哪种组织结构下，项目执行组织中的各职能部门参与项目的程度最低？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0241"
-                data-keyid="5f89598e57aad21d6e0be0241"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0241"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be024_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0241">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 职能型组织
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0242"
-                data-keyid="5f89598e57aad21d6e0be0242"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0242"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be024_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0242">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 平衡矩阵型组织
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0243"
-                data-keyid="5f89598e57aad21d6e0be0243"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0243"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be024_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0243">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 强矩阵组织
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0244"
-                data-keyid="5f89598e57aad21d6e0be0244"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0244"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be024_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0244">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 项目型组织
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">A</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >由全职的项目团队成员独立开展项目，基本不需要职能部门的参与。 A项目完全由所在的职能部门开展。B许多职能部门都参与项目工作。C 虽然项目团队的大多数成员是全职为项目工作，但仍然需要职能部门的参与。考点与页码：组织结构，项目型组织。《指南》第47页，《解读》第28-30页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be025"
-          data-id="5f89598e57aad21d6e0be025"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">12.</span>
-            输入的变更并不会产生可预测的输出，这是系统的哪个原则的体现？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0251"
-                data-keyid="5f89598e57aad21d6e0be0251"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0251"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be025_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0251">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 系统可以优化
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0252"
-                data-keyid="5f89598e57aad21d6e0be0252"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0252"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be025_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0252">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 系统及其组件不能同时优化
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0253"
-                data-keyid="5f89598e57aad21d6e0be0253"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0253"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be025_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0253">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 系统是动态的
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0254"
-                data-keyid="5f89598e57aad21d6e0be0254"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0254"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be025_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0254">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 系统呈现非线性响应
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >符合《指南》中的描述。A 这是指系统是可以不断完善的。B这是指对某个或某些组件的过分优化会损害系统整体的功能。C 这是指各组件的状态、组件之间的关系以及整个系统的状态都是不断变化的。考点与页码：组织是一个系统，系统的原则。《指南》第42页</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be026"
-          data-id="5f89598e57aad21d6e0be026"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">13.</span>
-            很多组织都会在不同的组织层级、不同的时间，针对不同的项目，采用不同的组织结构。这种组织通常被称为（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0261"
-                data-keyid="5f89598e57aad21d6e0be0261"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0261"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be026_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0261">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 灵活型组织
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0262"
-                data-keyid="5f89598e57aad21d6e0be0262"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0262"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be026_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0262">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 适应型组织
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0263"
-                data-keyid="5f89598e57aad21d6e0be0263"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0263"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be026_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0263">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 混合型组织
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0264"
-                data-keyid="5f89598e57aad21d6e0be0264"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0264"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be026_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0264">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 项目型组织
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >符合《指南》中的规定。A 没有“灵活型组织”这个说法B“适应型组织”不是《指南》中的一个术语。D 不符合题意考点与页码：组织结构，混合型组织。《指南》第47页，《解读》第28~30页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be027"
-          data-id="5f89598e57aad21d6e0be027"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">14.</span>
-            以下哪项是应该由项目团队更新的组织过程资产？ （）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0271"
-                data-keyid="5f89598e57aad21d6e0be0271"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0271"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be027_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0271">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 指南和标准
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0272"
-                data-keyid="5f89598e57aad21d6e0be0272"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0272"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be027_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0272">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 工作流程
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0273"
-                data-keyid="5f89598e57aad21d6e0be0273"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0273"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be027_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0273">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 工作政策
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0274"
-                data-keyid="5f89598e57aad21d6e0be0274"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0274"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be027_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0274">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span>项目档案
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">A</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >项目档案是由项目团队更新的。A 指南和标准是由PMO或其他职能部门来更新的。B工作流程是由PMO或其他职能部门来更新的。C 工作政策是由PMO或其他职能部门来更新的。考点与页码：组织过程资产更新的责任。《指南》第40页，《解读》第36页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be028"
-          data-id="5f89598e57aad21d6e0be028"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">15.</span>
-            项目的技术工作已经全部完成，产品也通过了最终验收，接着应该开展以下哪一项工作？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0281"
-                data-keyid="5f89598e57aad21d6e0be0281"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0281"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be028_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0281">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 写项目总结
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0282"
-                data-keyid="5f89598e57aad21d6e0be0282"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0282"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be028_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0282">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 更新问题日志
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0283"
-                data-keyid="5f89598e57aad21d6e0be0283"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0283"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be028_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0283">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 遣散团队成员
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0284"
-                data-keyid="5f89598e57aad21d6e0be0284"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0284"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be028_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0284">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 举办庆功宴
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">A</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >写项目总结，总结完经验教训后，项目才可以关门。B收尾阶段应该编制最终项目绩效报告，不再需要更新问题日志。C 总结经验教训仍要由团队成员去完成，现在还不能遣散。D 总结完经验教训后，再举办庆功宴。考点与页码：组织过程资产的更新。《指南》第39页，《解读》第36页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be029"
-          data-id="5f89598e57aad21d6e0be029"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">16.</span>
-            你是一位项目经理，服务于一家专门从事高新技术产品开发的公司，你正在为一个跨部门的新项目考虑合适的组织结构。你可能选择的方案是（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0291"
-                data-keyid="5f89598e57aad21d6e0be0291"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0291"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be029_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0291">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 职能型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0292"
-                data-keyid="5f89598e57aad21d6e0be0292"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0292"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be029_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0292">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 紧密式矩阵
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0293"
-                data-keyid="5f89598e57aad21d6e0be0293"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0293"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be029_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0293">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 矩阵型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0294"
-                data-keyid="5f89598e57aad21d6e0be0294"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0294"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be029_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0294">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 项目型
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >跨部门的项目通常应该采用矩阵型组织。A 职能型的组织不利于完成跨部门的工作。B紧密式矩阵其实是集中办公，而不是一种组织形式。D 项目型组织适用于规模很大或者工期很紧的项目（项目经理需要最大程度地控制资源）。题意中没有相关的信息。考点与页码：组织结构，矩阵型组织。《指南》第47页，《解读》第28~30页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be01b"
-          data-id="5f89598e57aad21d6e0be01b"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">17.</span>
-            你在某组织的项目管理办公室工作，你的主要职责是（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01b1"
-                data-keyid="5f89598e57aad21d6e0be01b1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01b1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01b_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be01b1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 从事项目的行政管理工作
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01b2"
-                data-keyid="5f89598e57aad21d6e0be01b2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01b2"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01b_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be01b2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 密切关注项目的风险和资源配置
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01b3"
-                data-keyid="5f89598e57aad21d6e0be01b3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01b3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01b_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be01b3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 统一协调各项目之间的沟通管理
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01b4"
-                data-keyid="5f89598e57aad21d6e0be01b4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01b4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01b_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be01b4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 编制项目进展报告和关于项目其他具体信息的报告
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >项目管理办公室有责任协调各项目之间的沟通管理。A 这是项目经理的职责。B这是项目经理的职责。D 这是项目经理的职责。考点与页码：项目管理办公室的职能。《指南》第49页，《解读》第31页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be01a"
-          data-id="5f89598e57aad21d6e0be01a"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">18.</span>
-            组织过程资产可以分为哪两大类？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01a1"
-                data-keyid="5f89598e57aad21d6e0be01a1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01a1"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01a_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be01a1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 过程、政策与程序，组织知识库
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01a2"
-                data-keyid="5f89598e57aad21d6e0be01a2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01a2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01a_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be01a2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 标准与规范、项目管理信息系统
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01a3"
-                data-keyid="5f89598e57aad21d6e0be01a3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01a3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01a_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be01a3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 模板与指南、基础设施
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01a4"
-                data-keyid="5f89598e57aad21d6e0be01a4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01a4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01a_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be01a4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 控制程序、控制系统
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">A</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">A</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >一类是过程、政策与程序，一类是组织知识库。B项目管理信息系统属于事业环境因素。C 基础设施属于事业环境因素。D 不符合《指南》中的分类方法。考点与页码：组织过程资产的两大类别。《指南》第39页，《解读》第36页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be01f"
-          data-id="5f89598e57aad21d6e0be01f"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">19.</span>
-            在项目的执行和监控过程组，项目管理团队最有可能利用以下哪种组织过程资产？ （）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01f1"
-                data-keyid="5f89598e57aad21d6e0be01f1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01f1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01f_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be01f1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 项目生命周期指南
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01f2"
-                data-keyid="5f89598e57aad21d6e0be01f2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01f2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01f_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be01f2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 项目收尾指南
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01f3"
-                data-keyid="5f89598e57aad21d6e0be01f3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01f3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01f_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be01f3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 相关的行业标准
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01f4"
-                data-keyid="5f89598e57aad21d6e0be01f4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01f4"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01f_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be01f4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 变更控制程序
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >需要为开展变更管理而利用变更控制程序。A 这是启动和规划过程组要利用的组织过程资产。B这是收尾过程组要利用的组织过程资产。C 这是事业环境因素。考点与页码：组织过程资产与事业环境因素。《指南》第40页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be01e"
-          data-id="5f89598e57aad21d6e0be01e"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">20.</span>
-            以下关于组织过程资产的说法，不正确的是（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01e1"
-                data-keyid="5f89598e57aad21d6e0be01e1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01e1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01e_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be01e1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 组织过程资产是来自项目执行组织的、有助于项目获得成功的任何工件、实践或知识
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01e2"
-                data-keyid="5f89598e57aad21d6e0be01e2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01e2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01e_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be01e2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 以前项目的进度计划、风险数据和挣值数据都是组织过程资产的例子
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01e3"
-                data-keyid="5f89598e57aad21d6e0be01e3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01e3"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01e_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be01e3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 只有在项目结束时，项目团队才需要更新组织过程资产
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01e4"
-                data-keyid="5f89598e57aad21d6e0be01e4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01e4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01e_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be01e4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 组织中的共享知识库是组织过程资产的组成部分
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >在项目全过程中都要更新组织过程资产，包括在项目结束时。A 组织过程资产就是组织内部项目过程和运营过程所累积的任何工件、实践和知识。B它们都是组织共享知识库中的重要内容，是组织过程资产的组成部分。D 共享知识库是组织过程资产的两大组成部分之一。考点与页码：组织过程资产。《指南》第39页，《解读》第36页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be01d"
-          data-id="5f89598e57aad21d6e0be01d"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">21.</span>
-            项目团队刚实施过一个和本项目非常类似的项目，但你发现某团队成员又出现了和上次一样的失误。你应该要求该团队成员（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01d1"
-                data-keyid="5f89598e57aad21d6e0be01d1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01d1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01d_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be01d1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 查阅他过去的工作总结
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01d2"
-                data-keyid="5f89598e57aad21d6e0be01d2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01d2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01d_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be01d2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 询问其他团队成员
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01d3"
-                data-keyid="5f89598e57aad21d6e0be01d3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01d3"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01d_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be01d3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 查阅组织过程资产
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01d4"
-                data-keyid="5f89598e57aad21d6e0be01d4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01d4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01d_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be01d4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 接受培训
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >应该查阅组织过程资产，吸取上一个项目的教训。A 个人工作总结不如组织过程资产全面。应该提倡多参考组织的经验而非个人的经验。B这个问题通过查阅组织过程资产就可以解决。D 利用组织过程资产就可以解决的问题，不需要额外的培训。考点与页码：利用组织过程资产帮助项目成功。必须假设项目所在组织有完善的组织过程资产。《指南》第39页，《解读》第35~36页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be01c"
-          data-id="5f89598e57aad21d6e0be01c"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">22.</span>
-            关于系统与组件的关系，以下说法正确的是（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01c1"
-                data-keyid="5f89598e57aad21d6e0be01c1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01c1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01c_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be01c1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 系统的功能就是各组件的功能之和
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01c2"
-                data-keyid="5f89598e57aad21d6e0be01c2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01c2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01c_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be01c2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 系统和组件必须同时优化
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01c3"
-                data-keyid="5f89598e57aad21d6e0be01c3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01c3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01c_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be01c3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 组件不可以优化，但系统可以优化
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be01c4"
-                data-keyid="5f89598e57aad21d6e0be01c4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be01c4"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be01c_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be01c4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 系统可以实现单个组件无法实现的成果
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >A 系统的功能要远大于各要素的功能之和。B系统和组件不能同时优化，某个组件的过分优化会损害系统的整体功能。C 系统和组件都可以优化。考点与页码：系统与组件的关系。《指南》第78页，《解读》第24~25页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be030"
-          data-id="5f89598e57aad21d6e0be030"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">23.</span>
-            项目应该在何时更新组织过程资产？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0301"
-                data-keyid="5f89598e57aad21d6e0be0301"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0301"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be030_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0301">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 完成一个阶段时
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0302"
-                data-keyid="5f89598e57aad21d6e0be0302"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0302"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be030_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0302">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 完成一个里程碑时
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0303"
-                data-keyid="5f89598e57aad21d6e0be0303"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0303"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be030_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0303">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 项目全部完成时
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0304"
-                data-keyid="5f89598e57aad21d6e0be0304"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0304"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be030_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0304">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 项目全过程中
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >在整个项目期间，项目团队成员都要对组织过程资产进行更新和增补。A 每个阶段结束时必须要做组织过程资产更新，不如D全面。B 重要的里程碑完成时要做组织过程资产更新，不如D全面。C 项目结束时必须做组织过程资产更新，不如D全面。考点与页码：组织过程资产的更新。《指南》第39页，《解读》第36页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0bdff7"
-          data-id="5f89598e57aad21d6e0bdff7"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">24.</span>
-            在项目型组织中，全职项目团队成员的比例通常是（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff71"
-                data-keyid="5f89598e57aad21d6e0bdff71"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff71"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff7_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0bdff71">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 很少
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff72"
-                data-keyid="5f89598e57aad21d6e0bdff72"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff72"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff7_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0bdff72">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 几乎100%
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff73"
-                data-keyid="5f89598e57aad21d6e0bdff73"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff73"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff7_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0bdff73">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 大约1/3
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff74"
-                data-keyid="5f89598e57aad21d6e0bdff74"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff74"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff7_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0bdff74">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 大约2/3
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >项目型组织中的团队成员基本都是全职在为项目工作。A这是弱矩阵的特点。C这是弱矩阵的特点。D这是强矩阵的特点。考点与页码：组织结构，项目型组织。《指南》第47页，《解读》第28-31页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0bdff8"
-          data-id="5f89598e57aad21d6e0bdff8"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">25.</span>
-            为实现某个特定目标而开展的一系列活动，只能由一个人来领导。这是以下哪个基本管理原则的要求？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff81"
-                data-keyid="5f89598e57aad21d6e0bdff81"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff81"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff8_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0bdff81">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 统一命令
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff82"
-                data-keyid="5f89598e57aad21d6e0bdff82"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff82"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff8_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0bdff82">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 统一方向
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff83"
-                data-keyid="5f89598e57aad21d6e0bdff83"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff83"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff8_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0bdff83">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 行动纪律
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff84"
-                data-keyid="5f89598e57aad21d6e0bdff84"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff84"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff8_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0bdff84">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 工作职责
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >统一方向，是人对事或事对事的，要求由一个人或用一份计划指挥一组活动朝同一个方向努力A统一命令是人对人的，即：对于一项行动，仅由一个人向另一个人发布指示。C这是指共同遵守纪律，不太切题。D这是指开展组织分派的工作任务，不太切题。考点与页码：组织中的管理要素或管理原则。注意区分统一命令与统一方向。《指南》第44页，《解读》第27页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0bdff5"
-          data-id="5f89598e57aad21d6e0bdff5"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">26.</span>
-            某人有机会接手管理一个新项目。他决定先全面地调查一下项目执行组织中员工的共享价值观和信念。这些价值观和信念属于（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff51"
-                data-keyid="5f89598e57aad21d6e0bdff51"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff51"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff5_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0bdff51">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 市场条件
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff52"
-                data-keyid="5f89598e57aad21d6e0bdff52"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff52"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff5_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0bdff52">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 组织治理
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff53"
-                data-keyid="5f89598e57aad21d6e0bdff53"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff53"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff5_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0bdff53">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 组织结构
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff54"
-                data-keyid="5f89598e57aad21d6e0bdff54"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff54"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff5_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0bdff54">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 组织文化
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >员工贡献的价值观和信念都是组织文化中的重要内容。A市场条件是项目执行组织外部的事业环境因素。B不如D那么直接相关。C不如D那么直接相关。考点与页码：事业环境因素，组织文化。《指南》第38页，《解读》第33页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0bdff6"
-          data-id="5f89598e57aad21d6e0bdff6"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">27.</span>
-            在管理具体项目时，项目管理团队应该根据具体需要裁剪（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff61"
-                data-keyid="5f89598e57aad21d6e0bdff61"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff61"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff6_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0bdff61">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 组织过程资产
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff62"
-                data-keyid="5f89598e57aad21d6e0bdff62"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff62"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff6_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0bdff62">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 事业环境因素
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff63"
-                data-keyid="5f89598e57aad21d6e0bdff63"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff63"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff6_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0bdff63">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 组织结构
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff64"
-                data-keyid="5f89598e57aad21d6e0bdff64"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff64"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff6_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0bdff64">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 组织文化
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">A</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">A</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >组织通常允许并要求项目管理团队对某些组织过程资产进行裁剪。B事业环境因素无法裁剪。C项目执行组织的组织结构是事业环境因素。D项目执行组织的组织文化是事业环境因素。考点与页码：裁剪组织过程资产。即便把C和D理解成是本项目团队的，那也不存在所谓的“裁剪”问题。《指南》第40页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0bdff9"
-          data-id="5f89598e57aad21d6e0bdff9"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">28.</span>
-            选择组织结构时应该考虑以下因素，除了（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff91"
-                data-keyid="5f89598e57aad21d6e0bdff91"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff91"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff9_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0bdff91">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 集中办公还是虚拟远程办公
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff92"
-                data-keyid="5f89598e57aad21d6e0bdff92"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff92"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff9_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0bdff92">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 成本
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff93"
-                data-keyid="5f89598e57aad21d6e0bdff93"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff93"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff9_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0bdff93">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 职责分配
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdff94"
-                data-keyid="5f89598e57aad21d6e0bdff94"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdff94"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdff9_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0bdff94">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 设计的稳定性
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >设计应具灵活性，组织结构要灵活，可以根据不同情况调整。A选择组织结构要考虑物理位置因素，包括办公方式。B某种组织结构所需要的管理成本是必然要考虑的。C如何分配职责也是需要考虑的。考点与页码：组织结构选择的考虑因素。《指南》第46页，《解读》第28~30页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be02e"
-          data-id="5f89598e57aad21d6e0be02e"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">29.</span>
-            某公司的PMO虽然不直接管控项目，但有权要求项目采用公司特定的项目管理方法论。这是什么类型的PMO?（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02e1"
-                data-keyid="5f89598e57aad21d6e0be02e1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02e1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02e_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be02e1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 支持型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02e2"
-                data-keyid="5f89598e57aad21d6e0be02e2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02e2"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02e_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be02e2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 控制型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02e3"
-                data-keyid="5f89598e57aad21d6e0be02e3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02e3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02e_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be02e3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 指令型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02e4"
-                data-keyid="5f89598e57aad21d6e0be02e4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02e4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02e_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be02e4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 教练型
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >控制型PMO有权要求项目服从自己的要求，虽然并不直接管理项目。A 支持型PMO无权要求项目服从自己的要求，只是扮演支持角色。C 指令型PMO直接管理和控制项目。D 《指南》中上没有这种类型的PMO。考点与页码：PMO的类型。《指南》第48页，《解读》第31页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be02d"
-          data-id="5f89598e57aad21d6e0be02d"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">30.</span>
-            在整个项目期间不断更新问题与缺陷管理数据库，写入问题与缺陷的最新状态、解决方案以及相关行动的结果。这项工作应该由谁完成？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02d1"
-                data-keyid="5f89598e57aad21d6e0be02d1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02d1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02d_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be02d1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 项目团队
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02d2"
-                data-keyid="5f89598e57aad21d6e0be02d2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02d2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02d_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be02d2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 职能经理
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02d3"
-                data-keyid="5f89598e57aad21d6e0be02d3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02d3"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02d_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be02d3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> PMO
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02d4"
-                data-keyid="5f89598e57aad21d6e0be02d4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02d4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02d_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be02d4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 项目经理
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">A</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >组织知识库（包括问题与缺陷管理数据库）的更新由项目团队负责。B 职能经理不参与项目的具体执行工作。C PMO主要负责组织过程资产中的过程、政策和程序的更新。D 项目团队包括了项目经理，A更全面。考点与页码：组织过程资产更新的责任。《指南》第40~41页，《解读》第36页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be02f"
-          data-id="5f89598e57aad21d6e0be02f"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">31.</span>
-            总结第一阶段工作时，项目专家指出，来自组织过程资产的工作程序存在严重问题，作为项目经理的你应该如何处理？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02f1"
-                data-keyid="5f89598e57aad21d6e0be02f1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02f1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02f_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be02f1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 决定在第二阶段优化该工作程序
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02f2"
-                data-keyid="5f89598e57aad21d6e0be02f2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02f2"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02f_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be02f2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 向 PMO 上报此问题
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02f3"
-                data-keyid="5f89598e57aad21d6e0be02f3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02f3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02f_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be02f3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 说明这是组织规定的，不能更改
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02f4"
-                data-keyid="5f89598e57aad21d6e0be02f4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02f4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02f_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be02f4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 请专家制定新的工作程序
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >更新组织过程资产中的工作程序不是项目工作的一部分，你只能向PMO提出更新建议A项目经理通常无权直接更新组织过程资产中的工作程序。C 工作程序是组织过程资产，也要不断优化和更新，只要组织同意就可以更改。D 项目专家无权制定新的工作程序，只能提出建议。修改工作程序是组织的事。考点与页码：组织过程资产更新的责任。《指南》第40页，《解读》第36页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be02a"
-          data-id="5f89598e57aad21d6e0be02a"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">32.</span>
-            项目管理办公室（PMO) 是（ ) .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02a1"
-                data-keyid="5f89598e57aad21d6e0be02a1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02a1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02a_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be02a1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 组织中对所辖各项目进行集中协调管理的一个临时性部门
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02a2"
-                data-keyid="5f89598e57aad21d6e0be02a2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02a2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02a_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be02a2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 组织中对所辖各项目进行集中协调管理的一个永久性部门
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02a3"
-                data-keyid="5f89598e57aad21d6e0be02a3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02a3"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02a_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be02a3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 组织中对相互关联的各项目进行集中协调管理的一个职能部门
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02a4"
-                data-keyid="5f89598e57aad21d6e0be02a4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02a4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02a_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be02a4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 组织中对相互关联的各项目进行集中协调管理的一个项目部门
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >符合《指南》中项目管理办公室的定义。A 项目管理办公室是一个对所辖项目进行集中协调管理的永久性办公室，不是针对某个或某些项目而设立的临时的项目办公室。C 除了被集中管理之外，项目管理办公室所支持或管理的项目不一定彼此关联。D 项目管理办公室所支持或管理的项目不一定彼此关联，项目管理办公室是职能部门而非项目部门。考点与页码：项目管理办公室。《指南》第48页，《解读》第31页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be02c"
-          data-id="5f89598e57aad21d6e0be02c"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">33.</span>
-            强矩阵组织和弱矩阵组织之间的主要差别在于（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02c1"
-                data-keyid="5f89598e57aad21d6e0be02c1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02c1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02c_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be02c1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 组织文化对项目的影响不同
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02c2"
-                data-keyid="5f89598e57aad21d6e0be02c2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02c2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02c_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be02c2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 项目团队成员之间以及他们与项目经理之间的亲近度不同
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02c3"
-                data-keyid="5f89598e57aad21d6e0be02c3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02c3"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02c_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be02c3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 项目经理对项目资源的控制程度不同
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02c4"
-                data-keyid="5f89598e57aad21d6e0be02c4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02c4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02c_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be02c4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 项目团队成员之间的凝聚力不同
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >强矩阵下，项目经理拥有较大的职权和较多的全职团队成员；弱矩阵下，项目经理的职权很小，全职团队成员很少。A 这个说法本身不太合理，而且与题意相距甚远。B 这个说法有一定的道理，但不足以直指本质。D 这个说法有一定的道理，但不足以直指本质。考点与页码：强矩阵和弱矩阵的区别。《指南》第47页表2-1，《解读》第28-30页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be02b"
-          data-id="5f89598e57aad21d6e0be02b"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">34.</span>
-            经过实地考察，项目经理发现当地的关税非常高，原材料进口很不划算。这个发现应该被记录为（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02b1"
-                data-keyid="5f89598e57aad21d6e0be02b1"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02b1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02b_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be02b1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 组织过程资产
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02b2"
-                data-keyid="5f89598e57aad21d6e0be02b2"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02b2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02b_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be02b2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 风险
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02b3"
-                data-keyid="5f89598e57aad21d6e0be02b3"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02b3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02b_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be02b3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 制约因素
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be02b4"
-                data-keyid="5f89598e57aad21d6e0be02b4"
-                data-type="1"
-                id="5f89598e57aad21d6e0be02b4"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be02b_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be02b4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 事业环境因素
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >这是组织外部的事业环境因素中的财务考虑因素。A 这不是对项目管理有帮助的组织过程资产。B 关税非常高，不具不确定性，不是风险。C 制约因素是对项目执行有影响的各种内外部制约或限制条件，例如，事先确定的预算、强制性进度里程碑、合同条款等。制约因素要比事业环境因素更加具体。考点与页码：事业环境因素。《指南》第39页，《解读》第34页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be007"
-          data-id="5f89598e57aad21d6e0be007"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">35.</span>
-            当项目经理遇到困难时，可以向PMO求助。因为PMO的主要职能是（ ) .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0071"
-                data-keyid="5f89598e57aad21d6e0be0071"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0071"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be007_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0071">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 制定和管理项目共享文件
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0072"
-                data-keyid="5f89598e57aad21d6e0be0072"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0072"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be007_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0072">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 对项目进行监督
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0073"
-                data-keyid="5f89598e57aad21d6e0be0073"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0073"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be007_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0073">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 向项目经理提供支持
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0074"
-                data-keyid="5f89598e57aad21d6e0be0074"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0074"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be007_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0074">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 提供资金
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >PMO的主要职能就是通过各种各样的方式向项目经理提供支持。A这是PMO向项目经理提供支持的方式之一。B对项目开展监督，也提供指导，这些都是PMO向项目经理提供支持的方式。D这是发起人的作用。一些组织内部的项目，指令型PMO可以作为发起人。考点与页码：PMO的主要职能。《指南》第49页，《解读》第31页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be006"
-          data-id="5f89598e57aad21d6e0be006"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">36.</span>
-            在列哪一种组织结构中，项目成员在收尾阶段最感到忧心忡忡？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0061"
-                data-keyid="5f89598e57aad21d6e0be0061"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0061"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be006_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0061">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 职能型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0062"
-                data-keyid="5f89598e57aad21d6e0be0062"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0062"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be006_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0062">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 矩阵型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0063"
-                data-keyid="5f89598e57aad21d6e0be0063"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0063"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be006_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0063">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 项目型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0064"
-                data-keyid="5f89598e57aad21d6e0be0064"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0064"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be006_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0064">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 弱矩阵型
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >项目型组织中，几乎所有项目成员全职在项目上工作，他们比较心项目完工后的去处A职能型组织中，几乎所有项目成员都是在职能部门内兼职做项目，他们不用担心项目完工后的去处。B矩阵型组织中，许多项目成员是从职能部门借调的，他们可以在项目完成后回职能部门，也就不需要担心项目完工后的去处。D弱矩阵下，大多数项目成员都在项目与职能部门之间兼职，职能部门是他们的“家”，他们不用担心项目完工后的去处。考点与页码：组织结构，项目型组织。《指南》第47页，《解读》第28-31页</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be009"
-          data-id="5f89598e57aad21d6e0be009"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">37.</span>
-            PMO 会对它所辖多个项目的哪些资源进行管理？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0091"
-                data-keyid="5f89598e57aad21d6e0be0091"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0091"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be009_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0091">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 全部资源
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0092"
-                data-keyid="5f89598e57aad21d6e0be0092"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0092"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be009_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0092">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 共享资源
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0093"
-                data-keyid="5f89598e57aad21d6e0be0093"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0093"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be009_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0093">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 各项目的稀缺人力资源
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0094"
-                data-keyid="5f89598e57aad21d6e0be0094"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0094"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be009_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0094">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 实物资源
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >PMO管理所辖项目的共享资源，如共享的专家资源。APMO只管理各项目的共享资源，不是全部资源。C每个项目使用的特定稀缺资源不由PMO直接管理，除非这些稀缺人才在各项目上共享。D每个项目的实物资源不由PMO直接管理，除非这些实物资源在各项目间是共享的。考点与页码：PMO的管理范围。《指南》第49页，《解读》第31页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be008"
-          data-id="5f89598e57aad21d6e0be008"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">38.</span>
-            在以下哪种组织结构中，项目团队成员最需要在特定时间临时集中办公？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0081"
-                data-keyid="5f89598e57aad21d6e0be0081"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0081"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be008_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0081">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 项目型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0082"
-                data-keyid="5f89598e57aad21d6e0be0082"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0082"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be008_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0082">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 多部门型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0083"
-                data-keyid="5f89598e57aad21d6e0be0083"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0083"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be008_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0083">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 虚拟型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0084"
-                data-keyid="5f89598e57aad21d6e0be0084"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0084"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be008_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0084">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> PMO型
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">A</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >虚拟型组织中，团队成员平时远程办公，只在特定时间临时集中办公A项目型组织中，项目团队成员永久集中办公。B多部门型（事业部型）组织与临时集中办公没有直接关系。DPMO型不一定是远程办公的虚拟型组织。考点与页码：虚拟型组织需要临时集中办公。《指南》第47页，《解读》第28页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be003"
-          data-id="5f89598e57aad21d6e0be003"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">39.</span>
-            你从一个简约型组织结构的公司跳槽到一家强矩阵型结构的组织当项目经理，你将面临的新情况是（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0031"
-                data-keyid="5f89598e57aad21d6e0be0031"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0031"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be003_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0031">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 决策都由高层制定
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0032"
-                data-keyid="5f89598e57aad21d6e0be0032"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0032"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be003_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0032">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 项目经理说了算
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0033"
-                data-keyid="5f89598e57aad21d6e0be0033"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0033"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be003_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0033">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 必须与职能经理合作
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0034"
-                data-keyid="5f89598e57aad21d6e0be0034"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0034"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be003_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0034">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 基本没有书面规章制度
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >只要是矩阵型组织，项目经理都必须跟提供团队成员的职能经理合作。A这是简约型组织结构的特点，决策权高度集中于老板。B强矩阵型组织里，并不是项目经理一人说了算。D这是简约型组织结构的特点，书面规章制度少，大家商量着办。考点与页码：组织结构，简约型和矩阵型组织。矩阵型组织需要大量规章制度。《指南》47页，《解读》第28页</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be002"
-          data-id="5f89598e57aad21d6e0be002"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">40.</span>
-            不仅给项目提供支持，而且要求项目服从，这是以下哪种类型的PMO例子？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0021"
-                data-keyid="5f89598e57aad21d6e0be0021"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0021"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be002_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0021">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 支持型 PMO
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0022"
-                data-keyid="5f89598e57aad21d6e0be0022"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0022"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be002_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0022">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 指令型 PMO
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0023"
-                data-keyid="5f89598e57aad21d6e0be0023"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0023"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be002_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0023">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 控制型PMO
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0024"
-                data-keyid="5f89598e57aad21d6e0be0024"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0024"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be002_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0024">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 强制型 PMO
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >控制型PMO，不仅给项目提供支持，而且通过各种手段要求项目服从，对项目的控制程度属于中等A支持型PMO，担当顾问角色，对项目提供支持，对项目的控制程度很低B指令型PMO，直接管理和控制项目，对项目的控制程度很高。D没有这种类型。考点与页码：PMO的类型。《指南》第48页，《解读》第31页</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be005"
-          data-id="5f89598e57aad21d6e0be005"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">41.</span>
-            项目治理必须履行的四大职能是（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0051"
-                data-keyid="5f89598e57aad21d6e0be0051"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0051"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be005_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0051">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 监督、控制、管理和决策
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0052"
-                data-keyid="5f89598e57aad21d6e0be0052"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0052"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be005_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0052">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 规划、控制、整合和决策
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0053"
-                data-keyid="5f89598e57aad21d6e0be0053"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0053"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be005_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0053">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 监督、控制、整合和总结
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0054"
-                data-keyid="5f89598e57aad21d6e0be0054"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0054"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be005_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0054">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 监督、控制、整合和决策
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >项目治理涉及四个领域，即：一致性、风险、绩效和沟通。每个领域都要履行这四大职能：监督、控制、整合与决策。A解释同D。B解释同D。C解释同D。考点与页码：项目治理的主要领域和职能。《指南》第44页，《解读》第25-26页</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be004"
-          data-id="5f89598e57aad21d6e0be004"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">42.</span>
-            项目经理有很大职权，使用全职的项目员工。但跨项目的沟通常常让他觉得力不从心，有时必须请高层出面协调。他所在的组织很可能（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0041"
-                data-keyid="5f89598e57aad21d6e0be0041"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0041"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be004_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0041">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 没有专门的项目部
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0042"
-                data-keyid="5f89598e57aad21d6e0be0042"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0042"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be004_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0042">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 没有分管项目的高层领导
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0043"
-                data-keyid="5f89598e57aad21d6e0be0043"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0043"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be004_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0043">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 未设立PMO
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0044"
-                data-keyid="5f89598e57aad21d6e0be0044"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0044"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be004_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0044">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 才成立不久
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >这有PMO，就没有专门构负责协调跨项日的A题干中已经暗示有专门的项目部（项目经理权大，使用全职的项目员工）。B题干中已经暗示有分管项目的高层领导。考点与页码：PMO的职责和功能。协调跨项目的沟通，是PMO的主要职责之一。《指南》第49页，《解读》第31-32页</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be001"
-          data-id="5f89598e57aad21d6e0be001"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">43.</span>
-            作为控制型PMO管理下的一个项目，项目经理必须做到以下几点，除了（ ) .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0011"
-                data-keyid="5f89598e57aad21d6e0be0011"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0011"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be001_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0011">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 采用 PMO 规定的项目管理框架和方法
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0012"
-                data-keyid="5f89598e57aad21d6e0be0012"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0012"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be001_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0012">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 服从项目治理架构
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0013"
-                data-keyid="5f89598e57aad21d6e0be0013"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0013"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be001_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0013">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 接受PMO对项目的直接管理和控制
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0014"
-                data-keyid="5f89598e57aad21d6e0be0014"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0014"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be001_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0014">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 采用 PMO 规定的模板编制项目文件
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >这是指令型PMO对项目的要求。A这是控制型PMO对项目的要求。B这是控制型PMO对项目的要求。D这是控制型PMO对项目的要求。考点与页码：PMO的类型。《指南》第48页，《解读》第31页</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be000"
-          data-id="5f89598e57aad21d6e0be000"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">44.</span>
-            关于组织过程资产的说法，以下哪项是错误的？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0001"
-                data-keyid="5f89598e57aad21d6e0be0001"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0001"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be000_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0001">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 执行组织所特有并使用的计划、过程、政策、程序和知识库
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0002"
-                data-keyid="5f89598e57aad21d6e0be0002"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0002"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be000_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0002">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 可以来自任何项目执行组织
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0003"
-                data-keyid="5f89598e57aad21d6e0be0003"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0003"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be000_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0003">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 包括来自组织以往项目的经验教训和历史信息
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0004"
-                data-keyid="5f89598e57aad21d6e0be0004"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0004"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be000_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0004">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 既可以来自项目执行组织的内部，也可来自项目执行组织的外部
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >组织过程资产只来自项目执行组织的内部。A组织过程资产是执行组织所特有并使用的计划、过程、政策、程序和知识库。B组织过程资产可来自任何项目执行组织。C组织过程资产包括来自组织以往项目的经验教训和历史信息。考点与页码：组织过程资产。来自项目执行组织外部的都是事业环境因素。《指南》第39~41页，《解读》第38页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0bdffd"
-          data-id="5f89598e57aad21d6e0bdffd"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">45.</span>
-            矩阵式组织结构最突出的优点是（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffd1"
-                data-keyid="5f89598e57aad21d6e0bdffd1"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffd1"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffd_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0bdffd1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 有利于充分利用资源
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffd2"
-                data-keyid="5f89598e57aad21d6e0bdffd2"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffd2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffd_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0bdffd2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 需要向两个老板汇报
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffd3"
-                data-keyid="5f89598e57aad21d6e0bdffd3"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffd3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffd_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0bdffd3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 可兼顾项目工作与职能工作
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffd4"
-                data-keyid="5f89598e57aad21d6e0bdffd4"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffd4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffd_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0bdffd4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 项目经理权力大，对资源有控制权
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">A</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">A</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >允许团队成员兼职以及各职能部门参与项目，有利于充分利用资源。B这是矩阵式组织的缺点。C这是职能式组织的优点。D这是项目式组织的优点。考点与页码：组织结构，矩阵型组织。《指南》第47页，《解读》第28-31页</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0bdffc"
-          data-id="5f89598e57aad21d6e0bdffc"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">46.</span>
-            按照组织应该遵守的基本管理原则，以下哪一项是正确的？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffc1"
-                data-keyid="5f89598e57aad21d6e0bdffc1"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffc1"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffc_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0bdffc1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 由一个特定的部门开展规划和实施
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffc2"
-                data-keyid="5f89598e57aad21d6e0bdffc2"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffc2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffc_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0bdffc2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 允许专家级员工参与规划和实施
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffc3"
-                data-keyid="5f89598e57aad21d6e0bdffc3"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffc3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffc_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0bdffc3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 允许任何员工参与规划和实施
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffc4"
-                data-keyid="5f89598e57aad21d6e0bdffc4"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffc4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffc_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0bdffc4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 允许高层员工参与规划和实施
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">A</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >这是16条基本管理原则中的内容。A这不是16条基本管理原则中的内容。B解释同A。D解释同A。考点与页码：组织中的管理要素或管理原则。《指南》第45页，《解读》第27页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0bdffb"
-          data-id="5f89598e57aad21d6e0bdffb"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">47.</span>
-            项目治理框架应该涉及哪四个治理领域？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffb1"
-                data-keyid="5f89598e57aad21d6e0bdffb1"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffb1"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffb_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0bdffb1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 一致性、风险、绩效、沟通
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffb2"
-                data-keyid="5f89598e57aad21d6e0bdffb2"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffb2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffb_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0bdffb2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 一致性、风险、质量、沟通
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffb3"
-                data-keyid="5f89598e57aad21d6e0bdffb3"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffb3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffb_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0bdffb3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 一致性、资源、绩效、沟通
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffb4"
-                data-keyid="5f89598e57aad21d6e0bdffb4"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffb4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffb_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0bdffb4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 一致性、风险、绩效、整合
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">A</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">A</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >四个治理领域是：一致性、风险、绩效和沟通。B质量不包括在治理领域中。C资源不包括在治理领域中。D整合不包括在治理领域中。考点与页码：四个治理领域。《指南》第44页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0bdffa"
-          data-id="5f89598e57aad21d6e0bdffa"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">48.</span>
-            下列哪种组织结构中，项目最不受关注？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffa1"
-                data-keyid="5f89598e57aad21d6e0bdffa1"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffa1"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffa_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0bdffa1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 平衡式矩阵
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffa2"
-                data-keyid="5f89598e57aad21d6e0bdffa2"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffa2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffa_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0bdffa2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 紧密式矩阵
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffa3"
-                data-keyid="5f89598e57aad21d6e0bdffa3"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffa3"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffa_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0bdffa3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 职能型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffa4"
-                data-keyid="5f89598e57aad21d6e0bdffa4"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffa4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffa_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0bdffa4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 项目型
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >职能型组织中的大部分工作都属于运营，职能工作容易优先于项目工作，项目在职能型组织中最容易被忽略。A与职能型组织相比，平衡式矩阵中的项目经理的权限更大，项目工作更受重视。B紧密式矩阵是集中办公的另一个说法，并不是一种组织结构。D项目型组织中项目经理几乎拥有对项目工作的全部权力，项目受重视程度最高。考点与页码：组织结构，职能型组织。《指南》第47页，《解读》第28~30页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0bdfff"
-          data-id="5f89598e57aad21d6e0bdfff"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">49.</span>
-            以下哪一项包括在组织过程资产中？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdfff1"
-                data-keyid="5f89598e57aad21d6e0bdfff1"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdfff1"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdfff_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0bdfff1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 历史资料和经验教训
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdfff2"
-                data-keyid="5f89598e57aad21d6e0bdfff2"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdfff2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdfff_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0bdfff2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 组织文化和组织结构
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdfff3"
-                data-keyid="5f89598e57aad21d6e0bdfff3"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdfff3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdfff_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0bdfff3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 项目管理信息系统
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdfff4"
-                data-keyid="5f89598e57aad21d6e0bdfff4"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdfff4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdfff_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0bdfff4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 组织的人事管理制度和人力资源现状
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">A</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">A</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >历史资料和经验教训是组织过程资产的组成部分。B组织文化和组织结构是事业环境因素。C项目管理信息系统是事业环境因素。D人事管理制度和人力资源现状是事业环境因素。考点与页码：事业环境因素和组织过程资产。《指南》第38~41页，《解读》第32~36页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0bdffe"
-          data-id="5f89598e57aad21d6e0bdffe"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">50.</span>
-            《指南》中提及的十六个组织管理原则，其中对于沟通的要求是（ ) .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffe1"
-                data-keyid="5f89598e57aad21d6e0bdffe1"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffe1"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffe_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0bdffe1">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 按层级进行沟通
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffe2"
-                data-keyid="5f89598e57aad21d6e0bdffe2"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffe2"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffe_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0bdffe2">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 畅通的沟通渠道
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffe3"
-                data-keyid="5f89598e57aad21d6e0bdffe3"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffe3"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffe_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0bdffe3">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 不受限制的沟通
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0bdffe4"
-                data-keyid="5f89598e57aad21d6e0bdffe4"
-                data-type="1"
-                id="5f89598e57aad21d6e0bdffe4"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0bdffe_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0bdffe4">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 优先的沟通渠道
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing error"></i>答错了
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">A</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >A这是亨利·法约尔的14条一般管理原则中强调的，要求严格按管理层次开展上下级沟通。但项目管理中更鼓励横向沟通。C说法错误，沟通必须适度，否则会浪费资源，也不利于项目目标的实现。D没有这种说法。考点与页码：组织作为一个系统，管理要素或管理原则。《指南》第45页，《解读》第27页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be019"
-          data-id="5f89598e57aad21d6e0be019"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">51.</span>
-            你的公司刚刚成立，只有9名员工，每个人没有明确的分工，一人要身兼多职。有问题大家商量着办，最终由你来决策。这是采用的哪种组织结构形式？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0191"
-                data-keyid="5f89598e57aad21d6e0be0191"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0191"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be019_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0191">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 简约型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0192"
-                data-keyid="5f89598e57aad21d6e0be0192"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0192"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be019_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0192">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 职能型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0193"
-                data-keyid="5f89598e57aad21d6e0be0193"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0193"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be019_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0193">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 弱矩阵型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0194"
-                data-keyid="5f89598e57aad21d6e0be0194"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0194"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be019_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0194">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 紧密型
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">A</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">A</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >这是典型的简约型组织结构形式。B没有划分职能部门，不是职能型。C 没有职能部门和项目部，因此不是矩阵型，更不能判断是弱矩阵。D 紧密型不是一种组织结构形式。考点与页码：组织结构，简约型组织。《指南》第47页，《解读》第28页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be018"
-          data-id="5f89598e57aad21d6e0be018"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">52.</span>
-            关于事业环境因素，以下哪个说法是错误的？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0181"
-                data-keyid="5f89598e57aad21d6e0be0181"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0181"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be018_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0181">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 事业环境因素可能对项目产生积极或消极的影响
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0182"
-                data-keyid="5f89598e57aad21d6e0be0182"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0182"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be018_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0182">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 事业环境因素包括组织治理和组织结构
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0183"
-                data-keyid="5f89598e57aad21d6e0be0183"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0183"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be018_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0183">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 事业环境因素可以来自组织内部或外部
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0184"
-                data-keyid="5f89598e57aad21d6e0be0184"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0184"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be018_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0184">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 项目管理过程不会导致对事业环境因素的更新
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >获取资源、建设团队和管理团队三个管理过程会导致事业环的更新。A 正确说法，良好的环境会对项目产生积极的影响。B正确说法。C 正确说法。考点与页码：事业环境因素更新。《指南》第38页，《解读》第32~34页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be017"
-          data-id="5f89598e57aad21d6e0be017"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">53.</span>
-            组织治理框架会直接影响以下哪个方面？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0171"
-                data-keyid="5f89598e57aad21d6e0be0171"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0171"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be017_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0171">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 项目沟通管理的方式
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0172"
-                data-keyid="5f89598e57aad21d6e0be0172"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0172"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be017_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0172">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 项目风险管理的方式
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0173"
-                data-keyid="5f89598e57aad21d6e0be0173"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0173"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be017_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0173">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 项目目标的设定和实现方式
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0174"
-                data-keyid="5f89598e57aad21d6e0be0174"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0174"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be017_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0174">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 组织目标的设定和实现方式
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >组织治理框架会直接影响组织目标的设定和实现方式、风险监控和评估方式、绩效优化方式。A 项目治理框架不会直接影响项目沟通管理的方式。B项目治理框架不会直接影响项目风险管理的方式。C 项目治理框架不会直接影响项目目标的设定和实现方式。考点与页码：组织治理框架。注意区分组织治理与项目治理。《指南》第43页，《解读》第25页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be016"
-          data-id="5f89598e57aad21d6e0be016"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">54.</span>
-            PMO 提供了一份组织预先批准的供应商清单，项目经理可以参考它以缩短供应商的筛选时间。这份清单对于项目经理是（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0161"
-                data-keyid="5f89598e57aad21d6e0be0161"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0161"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be016_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0161">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 组织内部的事业环境因素
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0162"
-                data-keyid="5f89598e57aad21d6e0be0162"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0162"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be016_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0162">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 组织外部的事业环境因素
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0163"
-                data-keyid="5f89598e57aad21d6e0be0163"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0163"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be016_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0163">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 组织过程资产中的流程与程序
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0164"
-                data-keyid="5f89598e57aad21d6e0be0164"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0164"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be016_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0164">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 组织过程资产中的组织知识库
+                  <span class="words-option">D.</span>提高项目干系人个人与团队成员对项目做出贡献的能力
                 </span>
               </label>
             </div>
@@ -7712,299 +1134,14 @@
 
             <div class="analysis-row">
               <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
             </div>
             <div class="analysis-row">
               <div class="analysis-title">解释说明：</div>
               <div
                 class="analysis-content question-analysis textalign-justify display-block"
-              >预先批准的供应商清单是组织过程资产中的流程与程序的一种。A 这份清单对项目经理开展项目工作有帮助作用，不是事业环境因素。B解释同AD 解释同C考点与页码：组织过程资产。《指南》第40页，《解读》第35~36页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be015"
-          data-id="5f89598e57aad21d6e0be015"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">55.</span>
-            你在一个组织中做着项目管理的工作，但是没有项目经理的正式头衔。你所在部门的领导对你有100%的绩效打分权。目前你正处于哪种组织结构中？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0151"
-                data-keyid="5f89598e57aad21d6e0be0151"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0151"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be015_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0151">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 简约型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0152"
-                data-keyid="5f89598e57aad21d6e0be0152"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0152"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be015_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0152">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 矩阵型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0153"
-                data-keyid="5f89598e57aad21d6e0be0153"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0153"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be015_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0153">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 职能型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0154"
-                data-keyid="5f89598e57aad21d6e0be0154"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0154"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be015_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0154">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 虚拟型
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">C</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >职能型组织下，项目经理是兼职的，没有头衔，完全由他所在职能部门的领导对他进行绩效打分。A 不符合简约型的特点。B职能经理有100%的绩效打分权，可以判断没有项目部，不是矩阵型。D 不是通过网络开展工作的，不是虚拟型。考点与页码：组织结构，职能型组织。《指南》第47页，《解读》第28~29页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be014"
-          data-id="5f89598e57aad21d6e0be014"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">56.</span>
-            项目治理是指（） .
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0141"
-                data-keyid="5f89598e57aad21d6e0be0141"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0141"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be014_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0141">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 把权力集中在项目经理手中
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0142"
-                data-keyid="5f89598e57aad21d6e0be0142"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0142"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be014_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0142">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 加强公司CEO对项目的控制力度
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0143"
-                data-keyid="5f89598e57aad21d6e0be0143"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0143"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be014_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0143">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 在不划分项目阶段的前提下，把项目作为一个整体加以控制
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0144"
-                data-keyid="5f89598e57aad21d6e0be0144"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0144"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be014_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0144">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 对项目的高层次的指导、支持和监控
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >项目治理给项目提供高级别的指导、支持、监督与控制。A 项目治理需要通过恰当的治理结构来实现，而非将权力集中在项目经理手中。B公司CEO负责对公司的管理，并不一定直接承担项目治理的任务。C 项目治理考虑的重要问题之一，就是是否把项目划分成两个甚至更多的阶段。阶段划分与控制是项目治理的重要内容。考点与页码：项目治理。《指南》第44页，《解读》第25页。</div>
+              >团队建设的目的就是通过提高项目团队绩效，从而提高项目绩效。</div>
             </div>
           </div>
 
@@ -8023,34 +1160,33 @@
 
         <div
           class="question-content question-content-type-1"
-          id="5f89598e57aad21d6e0be013"
-          data-id="5f89598e57aad21d6e0be013"
+          id="5545c349f3805c7730c376e6"
+          data-id="5545c349f3805c7730c376e6"
           data-commit="true"
-          data-disorder="1"
         >
           <div class="exam-question">
-            <span class="question-index ellipsis">57.</span>
-            公司本部只有三名员工，其他人都通过互联网互相配合完成项目工作。其中一部分人是全职的，一部分人是兼职的。这家公司采用的是哪种组织结构形式？（）
+            <span class="question-index ellipsis">9.</span>
+            建设项目团队过程的输出包括?
           </div>
 
           <div class="answers">
             <div class="select single-select a.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0131"
-                data-keyid="5f89598e57aad21d6e0be0131"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e61"
+                data-keyid="5545c349f3805c7730c376e61"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0131"
+                id="5545c349f3805c7730c376e61"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be013_"
+                name="keyChk_questions_5545c349f3805c7730c376e6_"
                 data-name="key1"
               />
-              <label for="5f89598e57aad21d6e0be0131">
+              <label for="5545c349f3805c7730c376e61">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">A.</span> 职能型
+                  <span class="words-option">A.</span>项目人员分派
                 </span>
               </label>
             </div>
@@ -8058,20 +1194,20 @@
             <div class="select single-select b.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0132"
-                data-keyid="5f89598e57aad21d6e0be0132"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e62"
+                data-keyid="5545c349f3805c7730c376e62"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0132"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be013_"
+                id="5545c349f3805c7730c376e62"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e6_"
                 data-name="key2"
               />
-              <label for="5f89598e57aad21d6e0be0132">
+              <label for="5545c349f3805c7730c376e62">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">B.</span> 简约型
+                  <span class="words-option">B.</span>活动资源需求
                 </span>
               </label>
             </div>
@@ -8079,20 +1215,20 @@
             <div class="select single-select c.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0133"
-                data-keyid="5f89598e57aad21d6e0be0133"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e63"
+                data-keyid="5545c349f3805c7730c376e63"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0133"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be013_"
+                id="5545c349f3805c7730c376e63"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376e6_"
                 data-name="key3"
               />
-              <label for="5f89598e57aad21d6e0be0133">
+              <label for="5545c349f3805c7730c376e63">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">C.</span> 虚拟型
+                  <span class="words-option">C.</span>资源日历
                 </span>
               </label>
             </div>
@@ -8100,20 +1236,20 @@
             <div class="select single-select d.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0134"
-                data-keyid="5f89598e57aad21d6e0be0134"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e64"
+                data-keyid="5545c349f3805c7730c376e64"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0134"
+                id="5545c349f3805c7730c376e64"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be013_"
+                name="keyChk_questions_5545c349f3805c7730c376e6_"
                 data-name="key4"
               />
-              <label for="5f89598e57aad21d6e0be0134">
+              <label for="5545c349f3805c7730c376e64">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">D.</span> 混合型
+                  <span class="words-option">D.</span>团队绩效评价
                 </span>
               </label>
             </div>
@@ -8136,18 +1272,19 @@
 
             <div class="analysis-row">
               <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer error">B</div>
+              <div class="analysis-content question-com-answer error">C</div>
             </div>
 
             <div class="analysis-row">
               <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">C</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
             </div>
             <div class="analysis-row">
               <div class="analysis-title">解释说明：</div>
               <div
                 class="analysis-content question-analysis textalign-justify display-block"
-              >绝大多数成员平时通过互联网远程办公，是虚拟型组织结构的典型特点。A 从题干中不能判断是职能型。B从题干中不能判断是简约型。D 从题干中不能判断是混合型。考点与页码：组织结构，虚拟型组织。《指南》第47页，《解读》第28页。</div>
+              >团队绩效评价是建设项目团队过程的输出。团队建设旨在提高团队绩效。</div>
             </div>
           </div>
 
@@ -8166,34 +1303,33 @@
 
         <div
           class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be012"
-          data-id="5f89598e57aad21d6e0be012"
+          id="5545c349f3805c7730c376e7"
+          data-id="5545c349f3805c7730c376e7"
           data-commit="true"
-          data-disorder="1"
         >
           <div class="exam-question">
-            <span class="question-index ellipsis">58.</span>
-            以下关于PMO的说法，正确的是（ ) .
+            <span class="question-index ellipsis">10.</span>
+            项目经理召集所有团队成员，讨论解决冲突的办法。项目经理采用的是下列哪种策略?
           </div>
 
           <div class="answers">
             <div class="select single-select a.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0121"
-                data-keyid="5f89598e57aad21d6e0be0121"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e71"
+                data-keyid="5545c349f3805c7730c376e71"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0121"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be012_"
+                id="5545c349f3805c7730c376e71"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376e7_"
                 data-name="key1"
               />
-              <label for="5f89598e57aad21d6e0be0121">
+              <label for="5545c349f3805c7730c376e71">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">A.</span> PMO的职责范围总是一样的
+                  <span class="words-option">A.</span>面对
                 </span>
               </label>
             </div>
@@ -8201,20 +1337,20 @@
             <div class="select single-select b.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0122"
-                data-keyid="5f89598e57aad21d6e0be0122"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e72"
+                data-keyid="5545c349f3805c7730c376e72"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0122"
+                id="5545c349f3805c7730c376e72"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be012_"
+                name="keyChk_questions_5545c349f3805c7730c376e7_"
                 data-name="key2"
               />
-              <label for="5f89598e57aad21d6e0be0122">
+              <label for="5545c349f3805c7730c376e72">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">B.</span> PMO 只管理隶属于同一个项目集的各个项目
+                  <span class="words-option">B.</span>妥协
                 </span>
               </label>
             </div>
@@ -8222,20 +1358,20 @@
             <div class="select single-select c.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0123"
-                data-keyid="5f89598e57aad21d6e0be0123"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e73"
+                data-keyid="5545c349f3805c7730c376e73"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0123"
+                id="5545c349f3805c7730c376e73"
                 disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be012_"
+                name="keyChk_questions_5545c349f3805c7730c376e7_"
                 data-name="key3"
               />
-              <label for="5f89598e57aad21d6e0be0123">
+              <label for="5545c349f3805c7730c376e73">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">C.</span> PMO 通常就是大型项目的项目部
+                  <span class="words-option">C.</span>回避
                 </span>
               </label>
             </div>
@@ -8243,306 +1379,20 @@
             <div class="select single-select d.">
               <input
                 type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0124"
-                data-keyid="5f89598e57aad21d6e0be0124"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e74"
+                data-keyid="5545c349f3805c7730c376e74"
                 data-type="1"
-                id="5f89598e57aad21d6e0be0124"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be012_"
+                id="5545c349f3805c7730c376e74"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e7_"
                 data-name="key4"
               />
-              <label for="5f89598e57aad21d6e0be0124">
+              <label for="5545c349f3805c7730c376e74">
                 <span class="select-icon">
                   <i class="icon icon-m_exam_correct"></i>
                 </span>
                 <span class="words">
-                  <span class="words-option">D.</span> PMO 所管理的项目不一定彼此关联
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">D</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">D</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >符合《指南》中的描述。A PMO的职责范围可大可小。BPMO还可以管理其他项目。C PMO不同于为特定项目而设的项目部。考点与页码：PMO的职责。《指南》第48页。《解读》第31页。</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be011"
-          data-id="5f89598e57aad21d6e0be011"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">59.</span>
-            公司既有职能部门也有项目部，但职能经理对每个人的绩效考核输入占80%, 项目经理只有20%的绩效考核权，这很有可能是哪种组织结构形式的公司？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0111"
-                data-keyid="5f89598e57aad21d6e0be0111"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0111"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be011_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0111">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 职能型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0112"
-                data-keyid="5f89598e57aad21d6e0be0112"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0112"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be011_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0112">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 弱矩阵型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0113"
-                data-keyid="5f89598e57aad21d6e0be0113"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0113"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be011_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0113">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 强矩阵型
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0114"
-                data-keyid="5f89598e57aad21d6e0be0114"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0114"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be011_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0114">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 虚拟型
-                </span>
-              </label>
-            </div>
-          </div>
-
-          <div class="analysis">
-            <div class="result-container">
-              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
-            </div>
-            <div class="operation-container">
-              <span class="item collect">
-                <i class="icon icon-m_exam_collection"></i>收藏
-              </span>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员得分：</div>
-              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">学员答案：</div>
-              <div class="analysis-content question-com-answer right">B</div>
-            </div>
-
-            <div class="analysis-row">
-              <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">B</div>
-            </div>
-            <div class="analysis-row">
-              <div class="analysis-title">解释说明：</div>
-              <div
-                class="analysis-content question-analysis textalign-justify display-block"
-              >从绩效考核权来看，职能经理的权力要远大于项目经理，这是弱矩阵的特点。一般组织的绩效考核权和所采取的组织结构形式应该是一致的。A有职能部门也有项目部，起码判断是矩阵型，不是职能型。C项目经理握有的考核权小，不是强矩阵型。D没有显示是网上虚拟办公的组织，不是虚拟型。考点与页码：组织结构，弱矩阵型组织。《指南》第47页，《解读》第28页</div>
-            </div>
-          </div>
-
-          <div
-            class="question-operation operation-icon"
-            data-type="1"
-            data-toggle="tooltip"
-            data-placement="top"
-            data-container="body"
-            title
-            data-original-title
-          >
-            <i class="icon"></i>
-          </div>
-        </div>
-
-        <div
-          class="question-content question-content-type-1 right-question-content"
-          id="5f89598e57aad21d6e0be010"
-          data-id="5f89598e57aad21d6e0be010"
-          data-commit="true"
-          data-disorder="1"
-        >
-          <div class="exam-question">
-            <span class="question-index ellipsis">60.</span>
-            系统中，各组件的状态、组件之间的关系以及整个系统的状态都是不断变化的，这是对系统的哪个特性的描述？（）
-          </div>
-
-          <div class="answers">
-            <div class="select single-select a.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0101"
-                data-keyid="5f89598e57aad21d6e0be0101"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0101"
-                checkeddisabled
-                name="keyChk_questions_5f89598e57aad21d6e0be010_"
-                data-name="key1"
-              />
-              <label for="5f89598e57aad21d6e0be0101">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">A.</span> 动态性
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select b.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0102"
-                data-keyid="5f89598e57aad21d6e0be0102"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0102"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be010_"
-                data-name="key2"
-              />
-              <label for="5f89598e57aad21d6e0be0102">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">B.</span> 开放性
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select c.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0103"
-                data-keyid="5f89598e57aad21d6e0be0103"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0103"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be010_"
-                data-name="key3"
-              />
-              <label for="5f89598e57aad21d6e0be0103">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">C.</span> 可优化性
-                </span>
-              </label>
-            </div>
-
-            <div class="select single-select d.">
-              <input
-                type="radio"
-                class="radioOrCheck hidden 5f89598e57aad21d6e0be0104"
-                data-keyid="5f89598e57aad21d6e0be0104"
-                data-type="1"
-                id="5f89598e57aad21d6e0be0104"
-                disabled
-                name="keyChk_questions_5f89598e57aad21d6e0be010_"
-                data-name="key4"
-              />
-              <label for="5f89598e57aad21d6e0be0104">
-                <span class="select-icon">
-                  <i class="icon icon-m_exam_correct"></i>
-                </span>
-                <span class="words">
-                  <span class="words-option">D.</span> 非线性响应性
+                  <span class="words-option">D.</span>合作
                 </span>
               </label>
             </div>
@@ -8570,13 +1420,7021 @@
 
             <div class="analysis-row">
               <div class="analysis-title">正确答案：</div>
-              <div class="analysis-content question-ans-right no-render-latex">A</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
             </div>
             <div class="analysis-row">
               <div class="analysis-title">解释说明：</div>
               <div
                 class="analysis-content question-analysis textalign-justify display-block"
-              >这是对系统动态性的描述。B开放性是指系统会与环境互动。C可优化性是与动态性有关的，是指系统可以在与环境的互动、各组件的互动中不断优化。D与题干无关。考点与页码：系统的特性。《指南》第42-43页，《解读》第24页</div>
+              >召集全体团队成员讨论冲突解决，应属直面问题。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376e0"
+          data-id="5545c349f3805c7730c376e0"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">11.</span>
+            团队组建过程最不可能发生冲突的是在哪个阶段?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e01"
+                data-keyid="5545c349f3805c7730c376e01"
+                data-type="1"
+                id="5545c349f3805c7730c376e01"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e0_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376e01">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>形成
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e02"
+                data-keyid="5545c349f3805c7730c376e02"
+                data-type="1"
+                id="5545c349f3805c7730c376e02"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e0_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376e02">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>震荡
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e03"
+                data-keyid="5545c349f3805c7730c376e03"
+                data-type="1"
+                id="5545c349f3805c7730c376e03"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e0_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376e03">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>规范
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e04"
+                data-keyid="5545c349f3805c7730c376e04"
+                data-type="1"
+                id="5545c349f3805c7730c376e04"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376e0_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376e04">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>成熟
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">D</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >在团队建设的成熟阶段，团队成员之间相互依靠，平稳高效地解决问题。形成、震荡、规范阶段都会存在潜在冲突。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376e1"
+          data-id="5545c349f3805c7730c376e1"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">12.</span>
+            以下关于项目管理团队的说法都是正确的，除了?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e11"
+                data-keyid="5545c349f3805c7730c376e11"
+                data-type="1"
+                id="5545c349f3805c7730c376e11"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e1_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376e11">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>项目管理团队是项目团队中从事管理和领导活动的成员的集合
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e12"
+                data-keyid="5545c349f3805c7730c376e12"
+                data-type="1"
+                id="5545c349f3805c7730c376e12"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e1_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376e12">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>项目管理团队又称为执行团队、核心团队或领导团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e13"
+                data-keyid="5545c349f3805c7730c376e13"
+                data-type="1"
+                id="5545c349f3805c7730c376e13"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e1_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376e13">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>项目管理团队可以是整个项目团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e14"
+                data-keyid="5545c349f3805c7730c376e14"
+                data-type="1"
+                id="5545c349f3805c7730c376e14"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376e1_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376e14">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>项目管理团队的成员通常在整个项目生命周期中维持不变
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">D</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >项目团队(包括项目管理团队)具有开放性。在项目生命周期的不同阶段，成员的数量和种类会发生变化。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376e2"
+          data-id="5545c349f3805c7730c376e2"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">13.</span>
+            一个关键项目接近主要里程碑，但是多个关键可交付成果都面临严重困难，其中一个原因是由于一名项目团队成员以及合同团队中多名资源的休假所造成。若要防止这个问题，项目经理应该怎么做?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e21"
+                data-keyid="5545c349f3805c7730c376e21"
+                data-type="1"
+                id="5545c349f3805c7730c376e21"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e2_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376e21">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>获得承包商经理的最终承诺
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e22"
+                data-keyid="5545c349f3805c7730c376e22"
+                data-type="1"
+                id="5545c349f3805c7730c376e22"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e2_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376e22">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>在项目执行阶段引人一个“无假期”政策
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e23"
+                data-keyid="5545c349f3805c7730c376e23"
+                data-type="1"
+                id="5545c349f3805c7730c376e23"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376e2_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376e23">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>确保所有资源的可用性都已记录在资源日历中
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e24"
+                data-keyid="5545c349f3805c7730c376e24"
+                data-type="1"
+                id="5545c349f3805c7730c376e24"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e2_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376e24">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>项目计划获得所有项目资源的批准
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >资源日历反映了项目人力资源何时可用以及可用多长时间，是制定项目进度计划的关键输入，为避免项目中出现的人力资源风险，需要详细的人力资源计划和明确的资源日历。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376e3"
+          data-id="5545c349f3805c7730c376e3"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">14.</span>
+            项目经理受命负责一个正处于规划阶段的咨询项目，并开始制订人力资源计划。但项目经理在阅读项目章程和项目成本效益分析后发现，已经任命了三名资深分析师。该案例属于?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e31"
+                data-keyid="5545c349f3805c7730c376e31"
+                data-type="1"
+                id="5545c349f3805c7730c376e31"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376e3_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376e31">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>预分派
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e32"
+                data-keyid="5545c349f3805c7730c376e32"
+                data-type="1"
+                id="5545c349f3805c7730c376e32"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e3_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376e32">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>项目员工指派
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e33"
+                data-keyid="5545c349f3805c7730c376e33"
+                data-type="1"
+                id="5545c349f3805c7730c376e33"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e3_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376e33">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>组织分解结构
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e34"
+                data-keyid="5545c349f3805c7730c376e34"
+                data-type="1"
+                id="5545c349f3805c7730c376e34"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e3_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376e34">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>项目团队清单
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">A</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >详见PMBOK中，预分派的三种情景:项目章程指定、专有技能和竞标承诺。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c376e8"
+          data-id="5545c349f3805c7730c376e8"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">15.</span>
+            在项目环境中，冲突是不可避免的，会因各种原因而产生。冲突最常见的来源包括?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e81"
+                data-keyid="5545c349f3805c7730c376e81"
+                data-type="1"
+                id="5545c349f3805c7730c376e81"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e8_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376e81">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>成员个性、资源稀缺、进度优先级排序
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e82"
+                data-keyid="5545c349f3805c7730c376e82"
+                data-type="1"
+                id="5545c349f3805c7730c376e82"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e8_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376e82">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>进度优先级排序、资源稀缺、成员个性
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e83"
+                data-keyid="5545c349f3805c7730c376e83"
+                data-type="1"
+                id="5545c349f3805c7730c376e83"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376e8_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376e83">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>资源稀缺、进度优先级排序、成员个性
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e84"
+                data-keyid="5545c349f3805c7730c376e84"
+                data-type="1"
+                id="5545c349f3805c7730c376e84"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e8_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376e84">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>资源稀缺、进度优先级排序、个人工作风格
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >冲突的主要来源包括资源稀缺、进度优先级排序和个人工作风格的差异。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c376e9"
+          data-id="5545c349f3805c7730c376e9"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">16.</span>
+            在建设项目团队过程中，项目经理想了解团队成员的优势、劣势、喜好、厌恶等，以便有针对性地开展培训和其他团队建设活动，应该使用以下哪个工具技术？
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e91"
+                data-keyid="5545c349f3805c7730c376e91"
+                data-type="1"
+                id="5545c349f3805c7730c376e91"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e9_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376e91">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>人事测评工具
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e92"
+                data-keyid="5545c349f3805c7730c376e92"
+                data-type="1"
+                id="5545c349f3805c7730c376e92"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e9_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376e92">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>认可与奖励
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e93"
+                data-keyid="5545c349f3805c7730c376e93"
+                data-type="1"
+                id="5545c349f3805c7730c376e93"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376e9_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376e93">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>集中办公
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376e94"
+                data-keyid="5545c349f3805c7730c376e94"
+                data-type="1"
+                id="5545c349f3805c7730c376e94"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376e9_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376e94">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>基本规则
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >人事测评工具有助于了解团队成员的优势、劣势、喜好和厌恶等。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c3770b"
+          data-id="5545c349f3805c7730c3770b"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">17.</span>
+            一个新员工被安排负责项目的资源保障工作，他必须了解项目可用资源的种类、属性、 何时可用以及可用多长时间等信息，这时你建议他可以去查阅?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770b1"
+                data-keyid="5545c349f3805c7730c3770b1"
+                data-type="1"
+                id="5545c349f3805c7730c3770b1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770b_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c3770b1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>WBS词典
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770b2"
+                data-keyid="5545c349f3805c7730c3770b2"
+                data-type="1"
+                id="5545c349f3805c7730c3770b2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770b_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c3770b2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>采购管理计划
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770b3"
+                data-keyid="5545c349f3805c7730c3770b3"
+                data-type="1"
+                id="5545c349f3805c7730c3770b3"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c3770b_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c3770b3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>资源日历
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770b4"
+                data-keyid="5545c349f3805c7730c3770b4"
+                data-type="1"
+                id="5545c349f3805c7730c3770b4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770b_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c3770b4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>人力资源管理计划
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >作为组建项目团队过程的输出的资源日历，其中有题干中所提及的各种信息。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c3770c"
+          data-id="5545c349f3805c7730c3770c"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">18.</span>
+            在最近的一次项目状态评审会议上，一名团队成员对其他成员非常不满，而且贬低别人在团队中的地位，这个人属于下列哪项提及的破坏性团队角色?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770c1"
+                data-keyid="5545c349f3805c7730c3770c1"
+                data-type="1"
+                id="5545c349f3805c7730c3770c1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770c_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c3770c1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>寻求赞誉者
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770c2"
+                data-keyid="5545c349f3805c7730c3770c2"
+                data-type="1"
+                id="5545c349f3805c7730c3770c2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770c_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c3770c2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>阻挡者
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770c3"
+                data-keyid="5545c349f3805c7730c3770c3"
+                data-type="1"
+                id="5545c349f3805c7730c3770c3"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c3770c_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c3770c3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>攻击者
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770c4"
+                data-keyid="5545c349f3805c7730c3770c4"
+                data-type="1"
+                id="5545c349f3805c7730c3770c4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770c_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c3770c4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>独断者
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >团队中的不同角色:破坏性角色：挑衅者(攻击者)、支配者、吹毛求疵者、多变者、寻求认同者、怕事者、阻碍者。建设性角色：发起者、信息搜寻者、提供信息者、鼓舞士气者、澄清者、协调者、民意收集者、守门员。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c3770a"
+          data-id="5545c349f3805c7730c3770a"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">19.</span>
+            下列各项除了__之外都是降低团队动力的迹象。
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770a1"
+                data-keyid="5545c349f3805c7730c3770a1"
+                data-type="1"
+                id="5545c349f3805c7730c3770a1"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c3770a_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c3770a1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>范围变更
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770a2"
+                data-keyid="5545c349f3805c7730c3770a2"
+                data-type="1"
+                id="5545c349f3805c7730c3770a2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770a_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c3770a2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>项目人员流动
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770a3"
+                data-keyid="5545c349f3805c7730c3770a3"
+                data-type="1"
+                id="5545c349f3805c7730c3770a3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770a_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c3770a3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>旷工
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770a4"
+                data-keyid="5545c349f3805c7730c3770a4"
+                data-type="1"
+                id="5545c349f3805c7730c3770a4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770a_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c3770a4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>团队成员之间的冲突
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">A</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >旷工、项目人员流动和团队冲突都是团队动机降低的迹象。一个项目经理必须及时采取措施。注意，不停的范围变更也可以起到涣散团队的催化剂作用。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376f9"
+          data-id="5545c349f3805c7730c376f9"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">20.</span>
+            作为组建项目团队过程的输出，资源日历通常用来记录?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f91"
+                data-keyid="5545c349f3805c7730c376f91"
+                data-type="1"
+                id="5545c349f3805c7730c376f91"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376f9_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376f91">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>项目团队成员的可用工作时间与休假时间
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f92"
+                data-keyid="5545c349f3805c7730c376f92"
+                data-type="1"
+                id="5545c349f3805c7730c376f92"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f9_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376f92">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>项目团队成员的正常工作时间以及在假期中工作的报酬标准
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f93"
+                data-keyid="5545c349f3805c7730c376f93"
+                data-type="1"
+                id="5545c349f3805c7730c376f93"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f9_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376f93">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>项目在何时需要何种以及多少资源
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f94"
+                data-keyid="5545c349f3805c7730c376f94"
+                data-type="1"
+                id="5545c349f3805c7730c376f94"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f9_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376f94">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>需要资源平衡的资源种类
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">A</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >参考PMBOK资源日历定义。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376f8"
+          data-id="5545c349f3805c7730c376f8"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">21.</span>
+            建设项目团队所采用的工具和技术包括以下所有，除了?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f81"
+                data-keyid="5545c349f3805c7730c376f81"
+                data-type="1"
+                id="5545c349f3805c7730c376f81"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f8_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376f81">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>团队建设活动
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f82"
+                data-keyid="5545c349f3805c7730c376f82"
+                data-type="1"
+                id="5545c349f3805c7730c376f82"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f8_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376f82">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>通用管理技能
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f83"
+                data-keyid="5545c349f3805c7730c376f83"
+                data-type="1"
+                id="5545c349f3805c7730c376f83"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376f8_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376f83">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>角色和职责的分配
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f84"
+                data-keyid="5545c349f3805c7730c376f84"
+                data-type="1"
+                id="5545c349f3805c7730c376f84"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f8_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376f84">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>奖励和表扬体系
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >参见PMBOK 9. 3. 2。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c3770d"
+          data-id="5545c349f3805c7730c3770d"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">22.</span>
+            以下哪个过程属于监控过程组?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770d1"
+                data-keyid="5545c349f3805c7730c3770d1"
+                data-type="1"
+                id="5545c349f3805c7730c3770d1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770d_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c3770d1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>建设项目团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770d2"
+                data-keyid="5545c349f3805c7730c3770d2"
+                data-type="1"
+                id="5545c349f3805c7730c3770d2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770d_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c3770d2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>管理项目团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770d3"
+                data-keyid="5545c349f3805c7730c3770d3"
+                data-type="1"
+                id="5545c349f3805c7730c3770d3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770d_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c3770d3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>组建项目团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770d4"
+                data-keyid="5545c349f3805c7730c3770d4"
+                data-type="1"
+                id="5545c349f3805c7730c3770d4"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c3770d_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c3770d4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>以上都不是
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">D</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >项目人力资源管理知识领域中的过程。注意:管理项目团队过程，看起来像监控过程组的过程，但在PMBOK中属于执行过程组。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c3770e"
+          data-id="5545c349f3805c7730c3770e"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">23.</span>
+            项目经理根据交付约定项目范围所需的能力来确定项目团队成员候选人，项目经理接下来应该怎么做?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770e1"
+                data-keyid="5545c349f3805c7730c3770e1"
+                data-type="1"
+                id="5545c349f3805c7730c3770e1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770e_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c3770e1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>与职能经理协商，为项目分配资源
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770e2"
+                data-keyid="5545c349f3805c7730c3770e2"
+                data-type="1"
+                id="5545c349f3805c7730c3770e2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770e_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c3770e2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>与确定的资源协商让其加入项目
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770e3"
+                data-keyid="5545c349f3805c7730c3770e3"
+                data-type="1"
+                id="5545c349f3805c7730c3770e3"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c3770e_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c3770e3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>立即将资源需求上报给项目发起人
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c3770e4"
+                data-keyid="5545c349f3805c7730c3770e4"
+                data-type="1"
+                id="5545c349f3805c7730c3770e4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c3770e_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c3770e4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>将能力需求更新到风险管理日志中
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >项目经理需要根据项目管理计划确定项目应该做什么、什么时候做，而完成工作所需要的人力资源需要项目经理参照项目章程的职责规定与职能经理进行谈判，获得项目的可用资源。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376f5"
+          data-id="5545c349f3805c7730c376f5"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">24.</span>
+            资源直方图显示了_。
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f51"
+                data-keyid="5545c349f3805c7730c376f51"
+                data-type="1"
+                id="5545c349f3805c7730c376f51"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f5_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376f51">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>职责分配状况
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f52"
+                data-keyid="5545c349f3805c7730c376f52"
+                data-type="1"
+                id="5545c349f3805c7730c376f52"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f5_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376f52">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>工作包所需要的资源使用情况
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f53"
+                data-keyid="5545c349f3805c7730c376f53"
+                data-type="1"
+                id="5545c349f3805c7730c376f53"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376f5_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376f53">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>从时间角度看所期望的资源使用情况
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f54"
+                data-keyid="5545c349f3805c7730c376f54"
+                data-type="1"
+                id="5545c349f3805c7730c376f54"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f5_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376f54">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>资源分解结构
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >参见PMBOK，资源直方图是考虑了时间因素的资源利用图。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376f4"
+          data-id="5545c349f3805c7730c376f4"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">25.</span>
+            一个矩阵式组织中的项目经理正在为一个新项目配备人员，并在组织的人员库中确定了一名关键资源，而该资源目前隶属于职能经理，并被分配到另一个项目上工作。项目经理应使用什么技术获得该资源?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f41"
+                data-keyid="5545c349f3805c7730c376f41"
+                data-type="1"
+                id="5545c349f3805c7730c376f41"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f4_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376f41">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>招募
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f42"
+                data-keyid="5545c349f3805c7730c376f42"
+                data-type="1"
+                id="5545c349f3805c7730c376f42"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f4_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376f42">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>事先指派
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f43"
+                data-keyid="5545c349f3805c7730c376f43"
+                data-type="1"
+                id="5545c349f3805c7730c376f43"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376f4_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376f43">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>谈判
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f44"
+                data-keyid="5545c349f3805c7730c376f44"
+                data-type="1"
+                id="5545c349f3805c7730c376f44"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f4_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376f44">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>虚拟化
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >项目经理想要获得满足项目所需的资源，必须和职能经理、其他项目管理团队和外部供应商等进行谈判。选项A, B, D也是团队组建的工具和技术。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c376f7"
+          data-id="5545c349f3805c7730c376f7"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">26.</span>
+            什么是项目经理用来简要说明资源何时应被分配给任务的工具?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f71"
+                data-keyid="5545c349f3805c7730c376f71"
+                data-type="1"
+                id="5545c349f3805c7730c376f71"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f7_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376f71">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>资源甘特图。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f72"
+                data-keyid="5545c349f3805c7730c376f72"
+                data-type="1"
+                id="5545c349f3805c7730c376f72"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376f7_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376f72">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>资源直方图。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f73"
+                data-keyid="5545c349f3805c7730c376f73"
+                data-type="1"
+                id="5545c349f3805c7730c376f73"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f7_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376f73">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>责任矩阵。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f74"
+                data-keyid="5545c349f3805c7730c376f74"
+                data-type="1"
+                id="5545c349f3805c7730c376f74"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f7_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376f74">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>帕累托图。
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">B</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >资源直方图显示了从时间角度看所期望的资源使用情况，责任矩阵没有考虑时间因素，帕累托图显然是不对的。资源甘特图显示的是资源在不同时间分配任务的情况。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c376f6"
+          data-id="5545c349f3805c7730c376f6"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">27.</span>
+            评价项目团队有效性的指标包括?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f61"
+                data-keyid="5545c349f3805c7730c376f61"
+                data-type="1"
+                id="5545c349f3805c7730c376f61"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f6_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376f61">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>个人技能的改进、团队能力的改进、成员离职率下降、团队凝聚力提高
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f62"
+                data-keyid="5545c349f3805c7730c376f62"
+                data-type="1"
+                id="5545c349f3805c7730c376f62"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f6_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376f62">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>项目经理的权威加强、团队能力的改进、成员离职率下降、团队凝聚力提高
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f63"
+                data-keyid="5545c349f3805c7730c376f63"
+                data-type="1"
+                id="5545c349f3805c7730c376f63"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376f6_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376f63">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>个人技能的改进、团队能力的改进、团队凝聚力提高、项目业绩提高
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f64"
+                data-keyid="5545c349f3805c7730c376f64"
+                data-type="1"
+                id="5545c349f3805c7730c376f64"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f6_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376f64">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>团队能力的改进、成员离职率下降、团队凝聚力提高、项目业绩提高
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >完全符合PMBOK中的描述。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376f1"
+          data-id="5545c349f3805c7730c376f1"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">28.</span>
+            在项目执行期间，某个关键团队成员尚未完成相关工作，就被转派到另一个新启动的项 目。这时，应该?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f11"
+                data-keyid="5545c349f3805c7730c376f11"
+                data-type="1"
+                id="5545c349f3805c7730c376f11"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f1_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376f11">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>要求延长工期
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f12"
+                data-keyid="5545c349f3805c7730c376f12"
+                data-type="1"
+                id="5545c349f3805c7730c376f12"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f1_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376f12">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>要求增加预算
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f13"
+                data-keyid="5545c349f3805c7730c376f13"
+                data-type="1"
+                id="5545c349f3805c7730c376f13"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376f1_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376f13">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>提出变更请求
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f14"
+                data-keyid="5545c349f3805c7730c376f14"
+                data-type="1"
+                id="5545c349f3805c7730c376f14"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f1_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376f14">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>招聘新成员来从事剩余的工作
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >人员转派导致无法按原来的项目计划执行，就需要提出变更请求。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376f0"
+          data-id="5545c349f3805c7730c376f0"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">29.</span>
+            在一个矩形组织中的项目规划阶段，项目经理认为需要额外的人力资源。他会从谁那边获取这些资源?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f01"
+                data-keyid="5545c349f3805c7730c376f01"
+                data-type="1"
+                id="5545c349f3805c7730c376f01"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f0_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376f01">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>项目管理办公室经理
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f02"
+                data-keyid="5545c349f3805c7730c376f02"
+                data-type="1"
+                id="5545c349f3805c7730c376f02"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376f0_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376f02">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>职能经理
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f03"
+                data-keyid="5545c349f3805c7730c376f03"
+                data-type="1"
+                id="5545c349f3805c7730c376f03"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f0_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376f03">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f04"
+                data-keyid="5545c349f3805c7730c376f04"
+                data-type="1"
+                id="5545c349f3805c7730c376f04"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f0_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376f04">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>项目发起人
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">B</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">B</div>
+              <div class="analysis-content question-ans-right hidden">B</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >在一个矩阵组织中，权力是由职能经理和项目经理共享的，所以项目经理需要和职能经理协商资源。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c376f3"
+          data-id="5545c349f3805c7730c376f3"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">30.</span>
+            可以使用以下哪种结构来把组织中的部门与项目中的工作包联系起来?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f31"
+                data-keyid="5545c349f3805c7730c376f31"
+                data-type="1"
+                id="5545c349f3805c7730c376f31"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f3_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376f31">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>工作分解结构
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f32"
+                data-keyid="5545c349f3805c7730c376f32"
+                data-type="1"
+                id="5545c349f3805c7730c376f32"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376f3_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376f32">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>资源分解结构
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f33"
+                data-keyid="5545c349f3805c7730c376f33"
+                data-type="1"
+                id="5545c349f3805c7730c376f33"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f3_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376f33">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>风险分解结构
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f34"
+                data-keyid="5545c349f3805c7730c376f34"
+                data-type="1"
+                id="5545c349f3805c7730c376f34"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f3_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376f34">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>组织分解结构
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">B</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >组织分解结构是对项目组织的一种层级描述，可在每个部门下列出其所负责的工作包。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376f2"
+          data-id="5545c349f3805c7730c376f2"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">31.</span>
+            以下哪项不是管理项目团队过程的工具与技术?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f21"
+                data-keyid="5545c349f3805c7730c376f21"
+                data-type="1"
+                id="5545c349f3805c7730c376f21"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f2_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376f21">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>冲突管理
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f22"
+                data-keyid="5545c349f3805c7730c376f22"
+                data-type="1"
+                id="5545c349f3805c7730c376f22"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376f2_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376f22">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>问题日志
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f23"
+                data-keyid="5545c349f3805c7730c376f23"
+                data-type="1"
+                id="5545c349f3805c7730c376f23"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f2_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376f23">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>人际关系技能
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376f24"
+                data-keyid="5545c349f3805c7730c376f24"
+                data-type="1"
+                id="5545c349f3805c7730c376f24"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376f2_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376f24">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>观察和交谈
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">B</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">B</div>
+              <div class="analysis-content question-ans-right hidden">B</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >问题日志是管理项目团队过程的输入之一。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376ed"
+          data-id="5545c349f3805c7730c376ed"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">32.</span>
+            项目的早期，应该让哪些人参与项目的规划和决策?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ed1"
+                data-keyid="5545c349f3805c7730c376ed1"
+                data-type="1"
+                id="5545c349f3805c7730c376ed1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ed_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376ed1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>少数技术专家
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ed2"
+                data-keyid="5545c349f3805c7730c376ed2"
+                data-type="1"
+                id="5545c349f3805c7730c376ed2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ed_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376ed2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>项目经理
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ed3"
+                data-keyid="5545c349f3805c7730c376ed3"
+                data-type="1"
+                id="5545c349f3805c7730c376ed3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ed_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376ed3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>核心团队成员
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ed4"
+                data-keyid="5545c349f3805c7730c376ed4"
+                data-type="1"
+                id="5545c349f3805c7730c376ed4"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376ed_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376ed4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>所有项目团队成员
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">D</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >最全面的答案。让全体项目团队成员尽早参与项目规划和决策有利于项目取得成功。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376ee"
+          data-id="5545c349f3805c7730c376ee"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">33.</span>
+            在多项目的环境下采用职能型组织结构时，一般将发生什么?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ee1"
+                data-keyid="5545c349f3805c7730c376ee1"
+                data-type="1"
+                id="5545c349f3805c7730c376ee1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ee_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376ee1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>一个人直接负责一个项目。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ee2"
+                data-keyid="5545c349f3805c7730c376ee2"
+                data-type="1"
+                id="5545c349f3805c7730c376ee2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ee_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376ee2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>项目成员将更强调他们的职能专业，而不是项目目标。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ee3"
+                data-keyid="5545c349f3805c7730c376ee3"
+                data-type="1"
+                id="5545c349f3805c7730c376ee3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ee_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376ee3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>对客户需求的反应比较慢。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ee4"
+                data-keyid="5545c349f3805c7730c376ee4"
+                data-type="1"
+                id="5545c349f3805c7730c376ee4"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376ee_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376ee4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>B和C。
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">D</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >职能型组织的成员对于项目目标的承诺较低，且对客户需求反应较慢，而对于矩阵型组织或者项目型组织来说，其对项目目标显然更有责任感。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376ef"
+          data-id="5545c349f3805c7730c376ef"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">34.</span>
+            项目经理想要了解团队成员的工作态度和工作表现。他应该使用下列哪个工具与技术?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ef1"
+                data-keyid="5545c349f3805c7730c376ef1"
+                data-type="1"
+                id="5545c349f3805c7730c376ef1"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376ef_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376ef1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>观察与交谈
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ef2"
+                data-keyid="5545c349f3805c7730c376ef2"
+                data-type="1"
+                id="5545c349f3805c7730c376ef2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ef_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376ef2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>沟通方法
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ef3"
+                data-keyid="5545c349f3805c7730c376ef3"
+                data-type="1"
+                id="5545c349f3805c7730c376ef3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ef_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376ef3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>项目绩效评估
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ef4"
+                data-keyid="5545c349f3805c7730c376ef4"
+                data-type="1"
+                id="5545c349f3805c7730c376ef4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ef_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376ef4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>沟通技术
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">A</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >符合PMBOK中的描述。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376ea"
+          data-id="5545c349f3805c7730c376ea"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">35.</span>
+            制定团队成员行为基本规则应该在哪个过程中进行?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ea1"
+                data-keyid="5545c349f3805c7730c376ea1"
+                data-type="1"
+                id="5545c349f3805c7730c376ea1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ea_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376ea1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>制订人力资源计划
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ea2"
+                data-keyid="5545c349f3805c7730c376ea2"
+                data-type="1"
+                id="5545c349f3805c7730c376ea2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ea_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376ea2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>组建团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ea3"
+                data-keyid="5545c349f3805c7730c376ea3"
+                data-type="1"
+                id="5545c349f3805c7730c376ea3"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376ea_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376ea3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>建设团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ea4"
+                data-keyid="5545c349f3805c7730c376ea4"
+                data-type="1"
+                id="5545c349f3805c7730c376ea4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ea_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376ea4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>管理团队
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >基本规则是建设团队的工具。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c376eb"
+          data-id="5545c349f3805c7730c376eb"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">36.</span>
+            一个项目经理经常向他的团队成员征求意见。这是的例子。
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376eb1"
+                data-keyid="5545c349f3805c7730c376eb1"
+                data-type="1"
+                id="5545c349f3805c7730c376eb1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376eb_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376eb1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>他需要满足棘手的成员
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376eb2"
+                data-keyid="5545c349f3805c7730c376eb2"
+                data-type="1"
+                id="5545c349f3805c7730c376eb2"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376eb_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376eb2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>X理论的领导风格
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376eb3"
+                data-keyid="5545c349f3805c7730c376eb3"
+                data-type="1"
+                id="5545c349f3805c7730c376eb3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376eb_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376eb3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>参与式管理风格
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376eb4"
+                data-keyid="5545c349f3805c7730c376eb4"
+                data-type="1"
+                id="5545c349f3805c7730c376eb4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376eb_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376eb4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>难做决策
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">B</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >管理风格之民主型/参与型的定义。项目经理在根据参与型管理风格在征求团队成员的意见。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376ec"
+          data-id="5545c349f3805c7730c376ec"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">37.</span>
+            在平衡矩阵式组织结构中，许多团队成员只是分散在各自的职能部门，兼职为项目工 作。为了加强团队建设，项目经理最好使用以下哪个工具与技术?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ec1"
+                data-keyid="5545c349f3805c7730c376ec1"
+                data-type="1"
+                id="5545c349f3805c7730c376ec1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ec_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376ec1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>认可与奖励
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ec2"
+                data-keyid="5545c349f3805c7730c376ec2"
+                data-type="1"
+                id="5545c349f3805c7730c376ec2"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376ec_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376ec2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>集中办公
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ec3"
+                data-keyid="5545c349f3805c7730c376ec3"
+                data-type="1"
+                id="5545c349f3805c7730c376ec3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ec_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376ec3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>培训
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ec4"
+                data-keyid="5545c349f3805c7730c376ec4"
+                data-type="1"
+                id="5545c349f3805c7730c376ec4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ec_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376ec4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>基本规则
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">B</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">B</div>
+              <div class="analysis-content question-ans-right hidden">B</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >在这种情况下，临时的集中办公是必需的，如每周三下午全体成员都必须到项目部集中办公。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376d7"
+          data-id="5545c349f3805c7730c376d7"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">38.</span>
+            项目经理观察到某队员开始一起工作并调整工作习惯，但是，他们彼此不信任，项目经理可以得出下列关于团队的结论?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d71"
+                data-keyid="5545c349f3805c7730c376d71"
+                data-type="1"
+                id="5545c349f3805c7730c376d71"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d7_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376d71">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>团队处于发展的规范阶段，很有可能进到成熟阶段
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d72"
+                data-keyid="5545c349f3805c7730c376d72"
+                data-type="1"
+                id="5545c349f3805c7730c376d72"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376d7_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376d72">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>团队处于发展的规范阶段，很有可能退回震荡阶段
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d73"
+                data-keyid="5545c349f3805c7730c376d73"
+                data-type="1"
+                id="5545c349f3805c7730c376d73"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d7_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376d73">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>团队处于发展的震荡阶段，很有可能进人规范阶段
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d74"
+                data-keyid="5545c349f3805c7730c376d74"
+                data-type="1"
+                id="5545c349f3805c7730c376d74"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d7_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376d74">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>团队处于发展的震荡阶段，很有可能进人成熟阶段
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">B</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">B</div>
+              <div class="analysis-content question-ans-right hidden">B</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >考察团队建设的五阶段模型，即形成-震荡-规范-成熟-解散(终止)阶段。团队开始调整习惯一起工作，这是处在团队建设的规范阶段，但是由于不信任，团队建设可能会有冲突发生，导致团队建设退回到震荡阶段。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376d6"
+          data-id="5545c349f3805c7730c376d6"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">39.</span>
+            在为你的项目编制资源计划的时候，你几次拜访工程设计的职能经理，但是她拒绝为项目提供资源。第一次借口是她的部门太忙，第二次是她的部门正在进行重组。这使你的项目进度拖延。缺少下列的哪一项最可能是得不到她的支持的原因?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d61"
+                data-keyid="5545c349f3805c7730c376d61"
+                data-type="1"
+                id="5545c349f3805c7730c376d61"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d6_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376d61">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>项目计划。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d62"
+                data-keyid="5545c349f3805c7730c376d62"
+                data-type="1"
+                id="5545c349f3805c7730c376d62"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376d6_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376d62">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>项目章程。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d63"
+                data-keyid="5545c349f3805c7730c376d63"
+                data-type="1"
+                id="5545c349f3805c7730c376d63"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d6_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376d63">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>资源分配矩阵。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d64"
+                data-keyid="5545c349f3805c7730c376d64"
+                data-type="1"
+                id="5545c349f3805c7730c376d64"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d6_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376d64">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>工作分解结构。
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">B</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">B</div>
+              <div class="analysis-content question-ans-right hidden">B</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >项目章程授权项目经理在项目活动中动用组织的资源，只有有了项目章程，项目经理说话才有高层的支持，更有分量。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c376d5"
+          data-id="5545c349f3805c7730c376d5"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">40.</span>
+            15位成员参加了上次的项目状态碰头会，会议也是杂乱无章，有许多私下讨论甚至争论，导致会议没有什么实质性的结果。为了让下次的会议更有条理，你应该怎么做?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d51"
+                data-keyid="5545c349f3805c7730c376d51"
+                data-type="1"
+                id="5545c349f3805c7730c376d51"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d5_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376d51">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>减少参加会议的人员
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d52"
+                data-keyid="5545c349f3805c7730c376d52"
+                data-type="1"
+                id="5545c349f3805c7730c376d52"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d5_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376d52">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>发布会议议程
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d53"
+                data-keyid="5545c349f3805c7730c376d53"
+                data-type="1"
+                id="5545c349f3805c7730c376d53"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376d5_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376d53">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>确保由你控制沟通渠道
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d54"
+                data-keyid="5545c349f3805c7730c376d54"
+                data-type="1"
+                id="5545c349f3805c7730c376d54"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d5_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376d54">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>为那些遵守会议期望惯例的成员提供奖励
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">B</div>
+              <div class="analysis-content question-ans-right hidden">B</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >召开会议一定要有会议议程。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c376d4"
+          data-id="5545c349f3805c7730c376d4"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">41.</span>
+            在一次团队会议中.该团队对整合方法争论了20分钟也没有什么结果。项目经理计划下次团队会议再解决这个问题。这是个的例子。
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d41"
+                data-keyid="5545c349f3805c7730c376d41"
+                data-type="1"
+                id="5545c349f3805c7730c376d41"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d4_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376d41">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>妥协
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d42"
+                data-keyid="5545c349f3805c7730c376d42"
+                data-type="1"
+                id="5545c349f3805c7730c376d42"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d4_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376d42">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>强制
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d43"
+                data-keyid="5545c349f3805c7730c376d43"
+                data-type="1"
+                id="5545c349f3805c7730c376d43"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376d4_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376d43">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>缓和
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d44"
+                data-keyid="5545c349f3805c7730c376d44"
+                data-type="1"
+                id="5545c349f3805c7730c376d44"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d4_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376d44">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>撤退
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >事情被推迟决定，这是撤退的例子，参见本章解决冲突的五种方法撤退。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376d9"
+          data-id="5545c349f3805c7730c376d9"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">42.</span>
+            项目团队将不能如期完成一个客户可交付成果，项目经理首先应该怎么做?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d91"
+                data-keyid="5545c349f3805c7730c376d91"
+                data-type="1"
+                id="5545c349f3805c7730c376d91"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376d9_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376d91">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>与团队一起审查满足期限的选择方案
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d92"
+                data-keyid="5545c349f3805c7730c376d92"
+                data-type="1"
+                id="5545c349f3805c7730c376d92"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d9_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376d92">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>将进度变更通知干系人
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d93"
+                data-keyid="5545c349f3805c7730c376d93"
+                data-type="1"
+                id="5545c349f3805c7730c376d93"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d9_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376d93">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>启动奖励体系，以便不会错过期限
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d94"
+                data-keyid="5545c349f3805c7730c376d94"
+                data-type="1"
+                id="5545c349f3805c7730c376d94"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d9_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376d94">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>搜索风险管理计划，确定应对这项风险的正确措施
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">A</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >团队不能提供可交付成果，项目经理应该首先寻找最有可能解决问题的备选方案，符合积极主动的原则。选项B是在提出变更方案并获得批准后通知干系人。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376d8"
+          data-id="5545c349f3805c7730c376d8"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">43.</span>
+            以下哪项不是管理项目团队过程的输出?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d81"
+                data-keyid="5545c349f3805c7730c376d81"
+                data-type="1"
+                id="5545c349f3805c7730c376d81"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d8_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376d81">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>项目文件更新
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d82"
+                data-keyid="5545c349f3805c7730c376d82"
+                data-type="1"
+                id="5545c349f3805c7730c376d82"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d8_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376d82">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>事业环境因素更新
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d83"
+                data-keyid="5545c349f3805c7730c376d83"
+                data-type="1"
+                id="5545c349f3805c7730c376d83"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376d8_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376d83">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>项目管理计划更新
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376d84"
+                data-keyid="5545c349f3805c7730c376d84"
+                data-type="1"
+                id="5545c349f3805c7730c376d84"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376d8_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376d84">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>团队绩效评价
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">D</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >团队绩效评价是建设项目团队过程的输出。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c37709"
+          data-id="5545c349f3805c7730c37709"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">44.</span>
+            在RACI责任分配矩阵中，应该为每一项工作指定?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377091"
+                data-keyid="5545c349f3805c7730c377091"
+                data-type="1"
+                id="5545c349f3805c7730c377091"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c37709_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c377091">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>唯一的最终责任人
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377092"
+                data-keyid="5545c349f3805c7730c377092"
+                data-type="1"
+                id="5545c349f3805c7730c377092"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37709_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c377092">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>两个最终责任人，以便相互帮助
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377093"
+                data-keyid="5545c349f3805c7730c377093"
+                data-type="1"
+                id="5545c349f3805c7730c377093"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37709_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c377093">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>三个最终责任人，以便集体领导
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377094"
+                data-keyid="5545c349f3805c7730c377094"
+                data-type="1"
+                id="5545c349f3805c7730c377094"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37709_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c377094">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>一个或以上的最终责任人，视具体情况而定
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">A</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >不仅要求项目经理是项目的唯一责任点，而且要求项目中的每一项工作都有唯一责任点。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c37702"
+          data-id="5545c349f3805c7730c37702"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">45.</span>
+            项目人力资源管理不包括以下哪个过程?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377021"
+                data-keyid="5545c349f3805c7730c377021"
+                data-type="1"
+                id="5545c349f3805c7730c377021"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37702_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c377021">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>估算项目资源
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377022"
+                data-keyid="5545c349f3805c7730c377022"
+                data-type="1"
+                id="5545c349f3805c7730c377022"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37702_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c377022">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>管理项目团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377023"
+                data-keyid="5545c349f3805c7730c377023"
+                data-type="1"
+                id="5545c349f3805c7730c377023"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37702_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c377023">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>组建项目团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377024"
+                data-keyid="5545c349f3805c7730c377024"
+                data-type="1"
+                id="5545c349f3805c7730c377024"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c37702_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c377024">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>建设项目团队
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">D</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >没有估算项目资源过程。而估算活动资源过程是项口时间管理的过程之一。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c37703"
+          data-id="5545c349f3805c7730c37703"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">46.</span>
+            公司已经有好几轮的裁员了，你的项目团队成员很担心他们的工作，因此项目绩效下降得厉害，这体现了哪种激励理论?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377031"
+                data-keyid="5545c349f3805c7730c377031"
+                data-type="1"
+                id="5545c349f3805c7730c377031"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37703_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c377031">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>麦格雷戈的X, Y理论
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377032"
+                data-keyid="5545c349f3805c7730c377032"
+                data-type="1"
+                id="5545c349f3805c7730c377032"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c37703_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c377032">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>马斯洛的需求层次理论
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377033"
+                data-keyid="5545c349f3805c7730c377033"
+                data-type="1"
+                id="5545c349f3805c7730c377033"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37703_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c377033">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>双因素理论
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377034"
+                data-keyid="5545c349f3805c7730c377034"
+                data-type="1"
+                id="5545c349f3805c7730c377034"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37703_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c377034">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>期望值理论
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">B</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">B</div>
+              <div class="analysis-content question-ans-right hidden">B</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >项目成员担心事业是马斯洛的需求层次中的安全需求。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c37700"
+          data-id="5545c349f3805c7730c37700"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">47.</span>
+            项目经理接手管理一个处于执行阶段的项目，发现部分团队成员缺乏履行其角色的技能，若要解决这个问题，项目经理应该怎么做?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377001"
+                data-keyid="5545c349f3805c7730c377001"
+                data-type="1"
+                id="5545c349f3805c7730c377001"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37700_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c377001">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>查阅人员配备管理计划
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377002"
+                data-keyid="5545c349f3805c7730c377002"
+                data-type="1"
+                id="5545c349f3805c7730c377002"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37700_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c377002">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>执行一次团队绩效评估
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377003"
+                data-keyid="5545c349f3805c7730c377003"
+                data-type="1"
+                id="5545c349f3805c7730c377003"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c37700_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c377003">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>执行培训与提升计划
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377004"
+                data-keyid="5545c349f3805c7730c377004"
+                data-type="1"
+                id="5545c349f3805c7730c377004"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37700_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c377004">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>安排项目绩效评估
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >观察到团队成员能力不足，培训是首选。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c37701"
+          data-id="5545c349f3805c7730c37701"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">48.</span>
+            项目经理开除了2名项目团队成员，是使用了冲突管理策略中的_。
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377011"
+                data-keyid="5545c349f3805c7730c377011"
+                data-type="1"
+                id="5545c349f3805c7730c377011"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c37701_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c377011">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>强制
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377012"
+                data-keyid="5545c349f3805c7730c377012"
+                data-type="1"
+                id="5545c349f3805c7730c377012"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37701_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c377012">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>回避
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377013"
+                data-keyid="5545c349f3805c7730c377013"
+                data-type="1"
+                id="5545c349f3805c7730c377013"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37701_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c377013">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>妥协
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377014"
+                data-keyid="5545c349f3805c7730c377014"
+                data-type="1"
+                id="5545c349f3805c7730c377014"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37701_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c377014">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>交换
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">A</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >开除团队成员采取的是强制和惩戒的冲突解决策略，这是赢-输的冲突解决方案。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c37706"
+          data-id="5545c349f3805c7730c37706"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">49.</span>
+            塔克曼的五阶段团队建设理论是?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377061"
+                data-keyid="5545c349f3805c7730c377061"
+                data-type="1"
+                id="5545c349f3805c7730c377061"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c37706_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c377061">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>形成、震荡、规范、成熟和解散
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377062"
+                data-keyid="5545c349f3805c7730c377062"
+                data-type="1"
+                id="5545c349f3805c7730c377062"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37706_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c377062">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>磨合、震荡、规范、成熟和解散
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377063"
+                data-keyid="5545c349f3805c7730c377063"
+                data-type="1"
+                id="5545c349f3805c7730c377063"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37706_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c377063">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>规范、磨合、震荡、成熟和解散
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377064"
+                data-keyid="5545c349f3805c7730c377064"
+                data-type="1"
+                id="5545c349f3805c7730c377064"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37706_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c377064">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>形成、规范、提高、成熟和解散
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">A</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >团队建设依次要经历的五个阶段。形成、震荡、规范、成熟和解散。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c37707"
+          data-id="5545c349f3805c7730c37707"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">50.</span>
+            你将自己的观点强加给对方，以结果为赢-输的方法处理了一个冲突，你使用的方法是？
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377071"
+                data-keyid="5545c349f3805c7730c377071"
+                data-type="1"
+                id="5545c349f3805c7730c377071"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37707_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c377071">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>面对
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377072"
+                data-keyid="5545c349f3805c7730c377072"
+                data-type="1"
+                id="5545c349f3805c7730c377072"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37707_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c377072">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>问题解决
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377073"
+                data-keyid="5545c349f3805c7730c377073"
+                data-type="1"
+                id="5545c349f3805c7730c377073"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37707_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c377073">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>惩罚
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377074"
+                data-keyid="5545c349f3805c7730c377074"
+                data-type="1"
+                id="5545c349f3805c7730c377074"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c37707_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c377074">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>强制
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">D</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >D是强制解决冲突的典型特点。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c37704"
+          data-id="5545c349f3805c7730c37704"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">51.</span>
+            具有共同目标，通常不面对面工作，而是依靠电子通信工具相互联系的一群人，被称为?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377041"
+                data-keyid="5545c349f3805c7730c377041"
+                data-type="1"
+                id="5545c349f3805c7730c377041"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37704_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c377041">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>项目团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377042"
+                data-keyid="5545c349f3805c7730c377042"
+                data-type="1"
+                id="5545c349f3805c7730c377042"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c37704_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c377042">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>虚拟团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377043"
+                data-keyid="5545c349f3805c7730c377043"
+                data-type="1"
+                id="5545c349f3805c7730c377043"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37704_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c377043">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>虚假团队
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377044"
+                data-keyid="5545c349f3805c7730c377044"
+                data-type="1"
+                id="5545c349f3805c7730c377044"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37704_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c377044">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>项目管理团队
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">B</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">B</div>
+              <div class="analysis-content question-ans-right hidden">B</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >符合PMBOK中虚拟团队的定义。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c37705"
+          data-id="5545c349f3805c7730c37705"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">52.</span>
+            一名新的项目经理被任命管理一个项目，而该项目已经在进行中。由于涉及的资源非常多，新的项目经理弄不清楚每个人的职责范围。新项目经理可以参阅什么文件来弄清楚每个人的职责范围?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377051"
+                data-keyid="5545c349f3805c7730c377051"
+                data-type="1"
+                id="5545c349f3805c7730c377051"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37705_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c377051">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>项目组织图
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377052"
+                data-keyid="5545c349f3805c7730c377052"
+                data-type="1"
+                id="5545c349f3805c7730c377052"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37705_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c377052">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>组织分解结构
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377053"
+                data-keyid="5545c349f3805c7730c377053"
+                data-type="1"
+                id="5545c349f3805c7730c377053"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37705_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c377053">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>职责分配矩阵
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377054"
+                data-keyid="5545c349f3805c7730c377054"
+                data-type="1"
+                id="5545c349f3805c7730c377054"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c37705_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c377054">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>资源分解结构
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">D</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >项目组织图是以图形的方式展示项目团队成员及通报关系;责任分配矩阵反应工作与项目团队成员之间的关系。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376fe"
+          data-id="5545c349f3805c7730c376fe"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">53.</span>
+            在下列作为一个项目经理该有的权力中，哪项是项目经理挣得的?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fe1"
+                data-keyid="5545c349f3805c7730c376fe1"
+                data-type="1"
+                id="5545c349f3805c7730c376fe1"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376fe_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376fe1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>潜示权力。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fe2"
+                data-keyid="5545c349f3805c7730c376fe2"
+                data-type="1"
+                id="5545c349f3805c7730c376fe2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fe_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376fe2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>正式权力。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fe3"
+                data-keyid="5545c349f3805c7730c376fe3"
+                data-type="1"
+                id="5545c349f3805c7730c376fe3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fe_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376fe3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>惩罚权力。
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fe4"
+                data-keyid="5545c349f3805c7730c376fe4"
+                data-type="1"
+                id="5545c349f3805c7730c376fe4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fe_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376fe4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>奖励权力。
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">A</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >所谓挣得的权力，就是职位本身所不具有，但却被项目经理所拥有的。B,C,D显然都是项目经理职位自然拥有的权力。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376fd"
+          data-id="5545c349f3805c7730c376fd"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">54.</span>
+            项目即将结束，为了减轻团队成员的焦虑情绪，让团队成员向新项目平滑过渡，项目经 理应该?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fd1"
+                data-keyid="5545c349f3805c7730c376fd1"
+                data-type="1"
+                id="5545c349f3805c7730c376fd1"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376fd_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376fd1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>按人员遣散计划执行
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fd2"
+                data-keyid="5545c349f3805c7730c376fd2"
+                data-type="1"
+                id="5545c349f3805c7730c376fd2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fd_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376fd2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>提前遣散团队成员
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fd3"
+                data-keyid="5545c349f3805c7730c376fd3"
+                data-type="1"
+                id="5545c349f3805c7730c376fd3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fd_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376fd3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>做好人力资源风险控制
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fd4"
+                data-keyid="5545c349f3805c7730c376fd4"
+                data-type="1"
+                id="5545c349f3805c7730c376fd4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fd_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376fd4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>对团队成员进行培训
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">A</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">A</div>
+              <div class="analysis-content question-ans-right hidden">A</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >人员遣散计划里事先确定了团队成员的遣散方法和时间，对项目和团队成员都有好处。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c37708"
+          data-id="5545c349f3805c7730c37708"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">55.</span>
+            下列哪项不是项目人力资源管理计划的组成部分?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377081"
+                data-keyid="5545c349f3805c7730c377081"
+                data-type="1"
+                id="5545c349f3805c7730c377081"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37708_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c377081">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>工作岗位及其权责
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377082"
+                data-keyid="5545c349f3805c7730c377082"
+                data-type="1"
+                id="5545c349f3805c7730c377082"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37708_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c377082">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>资源直方图
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377083"
+                data-keyid="5545c349f3805c7730c377083"
+                data-type="1"
+                id="5545c349f3805c7730c377083"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c37708_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c377083">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>组织结构图
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c377084"
+                data-keyid="5545c349f3805c7730c377084"
+                data-type="1"
+                id="5545c349f3805c7730c377084"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c37708_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c377084">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>人员配备管理计划
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">B</div>
+              <div class="analysis-content question-ans-right hidden">B</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >资源直方图是人员配备管理计划的一部分，不是人力资源管理计划的三大组成部分之一。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c376ff"
+          data-id="5545c349f3805c7730c376ff"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">56.</span>
+            以下哪项是组建项目团队过程的输人?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ff1"
+                data-keyid="5545c349f3805c7730c376ff1"
+                data-type="1"
+                id="5545c349f3805c7730c376ff1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ff_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376ff1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>活动资源需求
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ff2"
+                data-keyid="5545c349f3805c7730c376ff2"
+                data-type="1"
+                id="5545c349f3805c7730c376ff2"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376ff_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376ff2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>资源日历
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ff3"
+                data-keyid="5545c349f3805c7730c376ff3"
+                data-type="1"
+                id="5545c349f3805c7730c376ff3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ff_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376ff3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>组织结构图
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376ff4"
+                data-keyid="5545c349f3805c7730c376ff4"
+                data-type="1"
+                id="5545c349f3805c7730c376ff4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376ff_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376ff4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>人力资源管理计划
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">B</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >人力资源管理计划是组建项目团队的输入之一。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1"
+          id="5545c349f3805c7730c376fa"
+          data-id="5545c349f3805c7730c376fa"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">57.</span>
+            人员配备管理计划中通常包括?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fa1"
+                data-keyid="5545c349f3805c7730c376fa1"
+                data-type="1"
+                id="5545c349f3805c7730c376fa1"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376fa_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376fa1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>职责分配矩阵
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fa2"
+                data-keyid="5545c349f3805c7730c376fa2"
+                data-type="1"
+                id="5545c349f3805c7730c376fa2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fa_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376fa2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>人员培训安排
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fa3"
+                data-keyid="5545c349f3805c7730c376fa3"
+                data-type="1"
+                id="5545c349f3805c7730c376fa3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fa_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376fa3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>组织结构图
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fa4"
+                data-keyid="5545c349f3805c7730c376fa4"
+                data-type="1"
+                id="5545c349f3805c7730c376fa4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fa_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376fa4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>工作岗位及其权责
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing error"></i>答错了
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">0.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer error">A</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">B</div>
+              <div class="analysis-content question-ans-right hidden">B</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >人员配备管理计划中包含培训需要。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376fc"
+          data-id="5545c349f3805c7730c376fc"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">58.</span>
+            以下关于职责矩阵描述不正确的是?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fc1"
+                data-keyid="5545c349f3805c7730c376fc1"
+                data-type="1"
+                id="5545c349f3805c7730c376fc1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fc_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376fc1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>职责矩阵描述了团队成员分配的角色
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fc2"
+                data-keyid="5545c349f3805c7730c376fc2"
+                data-type="1"
+                id="5545c349f3805c7730c376fc2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fc_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376fc2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>职责矩阵描述了角色和职责
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fc3"
+                data-keyid="5545c349f3805c7730c376fc3"
+                data-type="1"
+                id="5545c349f3805c7730c376fc3"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376fc_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376fc3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>职责矩阵描述了团队成员什么时候需要做什么事
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fc4"
+                data-keyid="5545c349f3805c7730c376fc4"
+                data-type="1"
+                id="5545c349f3805c7730c376fc4"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fc_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376fc4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>职责矩阵与范围定义或WBS有关联
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">C</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">C</div>
+              <div class="analysis-content question-ans-right hidden">C</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >C是工作授权系统的内容。</div>
+            </div>
+          </div>
+
+          <div
+            class="question-operation operation-icon"
+            data-type="1"
+            data-toggle="tooltip"
+            data-placement="top"
+            data-container="body"
+            title
+            data-original-title
+          >
+            <i class="icon"></i>
+          </div>
+        </div>
+
+        <div
+          class="question-content question-content-type-1 right-question-content"
+          id="5545c349f3805c7730c376fb"
+          data-id="5545c349f3805c7730c376fb"
+          data-commit="true"
+        >
+          <div class="exam-question">
+            <span class="question-index ellipsis">59.</span>
+            规划人力资源管理过程的输出包括?
+          </div>
+
+          <div class="answers">
+            <div class="select single-select a.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fb1"
+                data-keyid="5545c349f3805c7730c376fb1"
+                data-type="1"
+                id="5545c349f3805c7730c376fb1"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fb_"
+                data-name="key1"
+              />
+              <label for="5545c349f3805c7730c376fb1">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">A.</span>人员配备管理计划
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select b.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fb2"
+                data-keyid="5545c349f3805c7730c376fb2"
+                data-type="1"
+                id="5545c349f3805c7730c376fb2"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fb_"
+                data-name="key2"
+              />
+              <label for="5545c349f3805c7730c376fb2">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">B.</span>工作岗位及其权责
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select c.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fb3"
+                data-keyid="5545c349f3805c7730c376fb3"
+                data-type="1"
+                id="5545c349f3805c7730c376fb3"
+                disabled
+                name="keyChk_questions_5545c349f3805c7730c376fb_"
+                data-name="key3"
+              />
+              <label for="5545c349f3805c7730c376fb3">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">C.</span>组织结构图
+                </span>
+              </label>
+            </div>
+
+            <div class="select single-select d.">
+              <input
+                type="radio"
+                class="radioOrCheck hidden 5545c349f3805c7730c376fb4"
+                data-keyid="5545c349f3805c7730c376fb4"
+                data-type="1"
+                id="5545c349f3805c7730c376fb4"
+                checkeddisabled
+                name="keyChk_questions_5545c349f3805c7730c376fb_"
+                data-name="key4"
+              />
+              <label for="5545c349f3805c7730c376fb4">
+                <span class="select-icon">
+                  <i class="icon icon-m_exam_correct"></i>
+                </span>
+                <span class="words">
+                  <span class="words-option">D.</span>人力资源管理计划
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="analysis">
+            <div class="result-container">
+              <i class="icon icon-m_exam_parsing right"></i>恭喜你答对啦
+            </div>
+            <div class="operation-container">
+              <span class="item collect">
+                <i class="icon icon-m_exam_collection"></i>收藏
+              </span>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员得分：</div>
+              <div class="analysis-content question-com-answer">1.0（本题分数：1.0）</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">学员答案：</div>
+              <div class="analysis-content question-com-answer right">D</div>
+            </div>
+
+            <div class="analysis-row">
+              <div class="analysis-title">正确答案：</div>
+              <div class="analysis-content question-ans-right">D</div>
+              <div class="analysis-content question-ans-right hidden">D</div>
+            </div>
+            <div class="analysis-row">
+              <div class="analysis-title">解释说明：</div>
+              <div
+                class="analysis-content question-analysis textalign-justify display-block"
+              >人力资源管理计划是规划人力资源管理过程的输出。</div>
             </div>
           </div>
 
