@@ -18,23 +18,35 @@
 // import HelloWorld from './components/HelloWorld.vue'
 
 export default {
-  name: 'app',
+  name: "app",
   components: {
     // HelloWorld
-  }
-}
+  },
+};
 </script>
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  /* margin-top: 60px; */
 }
-.questions-content{
-  text-align: left
+.questions-content {
+  text-align: left;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.analysis > :nth-child(1),
+.analysis > :nth-child(2),
+.analysis > :nth-child(3),
+.analysis > :nth-child(4) {
+  display: none;
 }
 </style>

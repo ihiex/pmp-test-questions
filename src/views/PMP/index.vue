@@ -92,6 +92,16 @@
               >第六版重点2020年C套120题</el-button
             >
           </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(28)"
+              >重点123</el-button
+            >
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(29)"
+              >重点200</el-button
+            >
+          </el-col>
         </el-row>
       </el-aside>
       <el-main>
@@ -126,11 +136,13 @@ import Eleven_z from "./Eleven_z";
 import Twelve from "./Twelve";
 import Thirteen from "./Thirteen";
 import yimo from "./yimo";
-import zhongdian from "./zhongdian";
-import new1 from "./new1";
-import A2020A from './A2020A';
-import A2020C from './A2020C';
-import Azuizhongdian from './Azuizhongdian';
+// import zhongdian from "./zhongdian";
+import new1 from "./new111";
+import A2020A from "./A2020A";
+import A2020C from "./A2020C";
+import Azuizhongdian from "./Azuizhongdian";
+import zhongdian123 from "./zhongdian123";
+import zhongdian200 from "./zhongdian200";
 
 export default {
   components: {
@@ -207,7 +219,7 @@ export default {
           this.componentId = Eleven_z;
           break;
         case 22:
-          this.componentId = zhongdian;
+          // this.componentId = zhongdian;
           break;
         case 23:
           this.componentId = new1;
@@ -223,6 +235,12 @@ export default {
           break;
         case 27:
           this.componentId = Azuizhongdian;
+          break;
+        case 28:
+          this.componentId = zhongdian123;
+          break;
+        case 29:
+          this.componentId = zhongdian200;
           break;
       }
       this.$nextTick(function () {
