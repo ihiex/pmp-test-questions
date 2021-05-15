@@ -102,6 +102,11 @@
               >重点200</el-button
             >
           </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(30)"
+              >最重点200</el-button
+            >
+          </el-col>
         </el-row>
       </el-aside>
       <el-main>
@@ -143,7 +148,7 @@ import A2020C from "./A2020C";
 import Azuizhongdian from "./Azuizhongdian";
 import zhongdian123 from "./zhongdian123";
 import zhongdian200 from "./zhongdian200";
-
+import zuixinzhongdian from './zuixinzhongdian'
 export default {
   components: {
     One,
@@ -240,7 +245,10 @@ export default {
           this.componentId = zhongdian123;
           break;
         case 29:
-          this.componentId = zhongdian200;
+          this.componentId = zhongdian200; 
+          break;
+           case 30:
+          this.componentId = zuixinzhongdian; 
           break;
       }
       this.$nextTick(function () {
