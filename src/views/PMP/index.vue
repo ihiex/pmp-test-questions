@@ -8,6 +8,9 @@
         </div>
         <el-row :gutter="20">
           <el-col :span="24">
+            <el-button @click="handleClick(0)">二模</el-button>
+          </el-col>
+          <el-col :span="24">
             <el-button @click="handleClick(1)">第一章</el-button>
           </el-col>
           <el-col :span="24">
@@ -149,6 +152,7 @@ import Azuizhongdian from "./Azuizhongdian";
 import zhongdian123 from "./zhongdian123";
 import zhongdian200 from "./zhongdian200";
 import zuixinzhongdian from './zuixinzhongdian'
+import ermo from './ermo'
 export default {
   components: {
     One,
@@ -160,6 +164,9 @@ export default {
   methods: {
     handleClick(val) {
       switch (val) {
+        case 0:
+          this.componentId = ermo;
+          break;
         case 1:
           this.componentId = One;
           break;
