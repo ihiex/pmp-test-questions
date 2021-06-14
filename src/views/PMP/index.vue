@@ -96,19 +96,49 @@
             >
           </el-col>
           <el-col :span="24">
-            <el-button @click="handleClick(28)"
-              >重点123</el-button
-            >
+            <el-button @click="handleClick(28)">重点123</el-button>
           </el-col>
           <el-col :span="24">
-            <el-button @click="handleClick(29)"
-              >重点200</el-button
-            >
+            <el-button @click="handleClick(29)">重点200</el-button>
           </el-col>
           <el-col :span="24">
-            <el-button @click="handleClick(30)"
-              >最重点200</el-button
-            >
+            <el-button @click="handleClick(30)">最重点200</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(31)">1</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(32)">2</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(33)">3</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(34)">4</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(35)">5</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(36)">6</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(37)">7</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(38)">8</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(39)">9</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(40)">10</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(41)">11</el-button>
+          </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(42)">12</el-button>
           </el-col>
         </el-row>
       </el-aside>
@@ -151,8 +181,21 @@ import A2020C from "./A2020C";
 import Azuizhongdian from "./Azuizhongdian";
 import zhongdian123 from "./zhongdian123";
 import zhongdian200 from "./zhongdian200";
-import zuixinzhongdian from './zuixinzhongdian'
-import ermo from './ermo'
+import zuixinzhongdian from "./zuixinzhongdian";
+import ermo from "./ermo";
+import zhongdian1 from "./pmp2/zhongdian1.vue";
+import zhongdian2 from "./pmp2/zhongdian2.vue";
+import zhongdian3 from "./pmp2/zhongdian3.vue";
+import zhongdian4 from "./pmp2/zhongdian4.vue";
+import zhongdian5 from "./pmp2/zhongdian5.vue";
+import zhongdian6 from "./pmp2/zhongdian6.vue";
+import zhongdian7 from "./pmp2/zhongdian7.vue";
+import zhongdian8 from "./pmp2/zhongdian8.vue";
+import zhongdian9 from "./pmp2/zhongdian9.vue";
+import zhongdian10 from "./pmp2/zhongdian10.vue";
+import zhongdian11 from "./pmp2/zhongdian11.vue";
+import zhongdian12 from "./pmp2/zhongdian12.vue";
+
 export default {
   components: {
     One,
@@ -252,10 +295,46 @@ export default {
           this.componentId = zhongdian123;
           break;
         case 29:
-          this.componentId = zhongdian200; 
+          this.componentId = zhongdian200;
           break;
-           case 30:
-          this.componentId = zuixinzhongdian; 
+        case 30:
+          this.componentId = zuixinzhongdian;
+          break;
+          case 31:
+          this.componentId = zhongdian1;
+          break;
+           case 32:
+          this.componentId = zhongdian2;
+          break;
+           case 33:
+          this.componentId = zhongdian3;
+          break;
+           case 34:
+          this.componentId = zhongdian4;
+          break;
+           case 35:
+          this.componentId = zhongdian5;
+          break;
+           case 36:
+          this.componentId = zhongdian6;
+          break;
+           case 37:
+          this.componentId = zhongdian7;
+          break;
+           case 38:
+          this.componentId = zhongdian8;
+          break;
+           case 39:
+          this.componentId = zhongdian9;
+          break;
+           case 40:
+          this.componentId = zhongdian10;
+          break;
+           case 41:
+          this.componentId = zhongdian11;
+          break;
+           case 42:
+          this.componentId = zhongdian12;
           break;
       }
       this.$nextTick(function () {
