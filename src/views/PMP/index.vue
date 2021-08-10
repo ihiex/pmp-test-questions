@@ -140,6 +140,9 @@
           <el-col :span="24">
             <el-button @click="handleClick(42)">12</el-button>
           </el-col>
+          <el-col :span="24">
+            <el-button @click="handleClick(43)">Z第六版新题200（重点）</el-button>
+          </el-col>
         </el-row>
       </el-aside>
       <el-main>
@@ -195,6 +198,7 @@ import zhongdian9 from "./pmp2/zhongdian9.vue";
 import zhongdian10 from "./pmp2/zhongdian10.vue";
 import zhongdian11 from "./pmp2/zhongdian11.vue";
 import zhongdian12 from "./pmp2/zhongdian12.vue";
+import new200zhongdian from "./new/new200zhongdian.vue";
 
 export default {
   components: {
@@ -335,6 +339,9 @@ export default {
           break;
            case 42:
           this.componentId = zhongdian12;
+          break;
+           case 43:
+          this.componentId = new200zhongdian;
           break;
       }
       this.$nextTick(function () {
